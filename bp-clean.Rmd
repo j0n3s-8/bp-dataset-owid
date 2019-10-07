@@ -1,0 +1,138 @@
+---
+title: "BP Energy Dataset"
+output: html_notebook
+---
+
+# Packages
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(readxl)
+library(purrr)
+library(janitor)
+library(rlang)
+```
+
+# Download
+
+```{r}
+try(dir.create("data-raw"))
+
+bp_url <- "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/xlsx/energy-economics/statistical-review/bp-stats-review-2019-all-data.xlsx"
+
+bp_xlsx <- "data-raw/bp-stats-review-2019-all-data.xlsx"
+
+if (!file.exists(bp_xlsx)) {
+  download.file(bp_url, bp_xlsx , method = "wget")
+}
+```
+
+# Functions
+
+```{r}
+read_sheet_type1 <- function(x,y,z) {
+  read_excel(
+    "data-raw/bp-stats-review-2019-all-data.xlsx", 
+    sheet = x,
+    range = y,
+    trim_ws = TRUE
+  ) %>% 
+    clean_names() %>% 
+    gather("year", "value", -{{z}}) %>% 
+    mutate(
+      year = as.integer(str_replace(year, "x", "")),
+      value = as.numeric(value),
+      category = z
+    ) %>% 
+    drop_na(value) %>% 
+    rename(country = {{z}}) %>% 
+    filter(str_sub(country, 1, 5) != "Total")
+}
+```
+
+# Type 1 Data
+
+```{r}
+type1_sheets <- c(
+  "Primary Energy Consumption",
+  "Primary Energy - Cons capita",
+  
+  "Oil - Proved reserves history",
+  "Oil Production - Barrels",
+  "Oil Production - Tonnes",
+  "Oil Production - Crude Conds",
+  "Oil Production - NGLs",
+  "Oil Consumption - Barrels",
+  "Oil Consumption - Tonnes",
+  "Oil Consumption - Mtoe",
+  "Oil - Refinery throughput",
+  "Oil - Refining capacity",
+
+  "Gas - Proved reserves history ",
+  "Gas Production - Bcm",
+  "Gas Production - Bcf",
+  "Gas Production - Mtoe",
+  "Gas Consumption - Bcm",
+  "Gas Consumption - Bcf",
+  "Gas Consumption - Mtoe",
+  "Gas - LNG imports",
+  "Gas - LNG exports"
+)
+
+type1_ranges <- c(
+  "A3:BC109",
+  "A3:BC109",
+  
+  "A3:AN73",
+  "A3:BC73",
+  "A3:BC73",
+  "A3:T72",
+  "A3:T72",
+  "A3:BC109",
+  "A3:BC109",
+  "A3:BC109",
+  "A3:AN97",
+  "A3:BC97",
+  
+  "A3:AN75",
+  "A3:AX73",
+  "A3:AX73",
+  "A3:AX73",
+  "A3:BC109",
+  "A3:BC109",
+  "A3:BC109",
+  "A3:T38",
+  "A3:T31"
+)
+
+type1_dimensions <- c(
+  "million_tonnes_oil_equivalent",
+  "gigajoule_per_capita",
+  
+  "thousand_million_barrels",
+  "thousand_barrels_daily",
+  "million_tonnes",
+  "thousand_barrels_daily",
+  "thousand_barrels_daily",
+  "thousand_barrels_daily",
+  "million_tonnes",
+  "million_tonnes_oil_equivalent",
+  "thousand_barrels_daily",
+  "thousand_barrels_daily",
+  
+  "trillion_cubic_metres",
+  "billion_cubic_metres",
+  "billion_cubic_feet_per_day",
+  "million_tonnes_oil_equivalent",
+  "billion_cubic_metres",
+  "billion_cubic_feet_per_day",
+  "million_tonnes_oil_equivalent",
+  "billion_cubic_metres",
+  "billion_cubic_metres"
+)
+
+d1 <- pmap(list(type1_sheets, type1_ranges, type1_dimensions), read_sheet_type1)
+names(d1) <- make_clean_names(type1_sheets)
+```
