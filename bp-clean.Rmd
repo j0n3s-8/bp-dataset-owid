@@ -56,9 +56,11 @@ read_sheet_type1 <- function(x,y,z) {
 
 ```{r}
 type1_sheets <- c(
+  # Primary
   "Primary Energy Consumption",
   "Primary Energy - Cons capita",
   
+  # Oil
   "Oil - Proved reserves history",
   "Oil Production - Barrels",
   "Oil Production - Tonnes",
@@ -70,6 +72,7 @@ type1_sheets <- c(
   "Oil - Refinery throughput",
   "Oil - Refining capacity",
 
+  # Gas
   "Gas - Proved reserves history ",
   "Gas Production - Bcm",
   "Gas Production - Bcf",
@@ -78,13 +81,39 @@ type1_sheets <- c(
   "Gas Consumption - Bcf",
   "Gas Consumption - Mtoe",
   "Gas - LNG imports",
-  "Gas - LNG exports"
+  "Gas - LNG exports",
+  
+  # Coal
+  "Coal Production - Tonnes",
+  "Coal Production - Mtoe",
+  
+  # Nuclear
+  "Nuclear Generation - TWh",
+  "Nuclear Consumption - Mtoe",
+  
+  # Hydro
+  "Hydro Generation - TWh",
+  "Hydro Consumption - Mtoe",
+  
+  # Renewables
+  "Renewables - TWh",
+  "Renewables - Mtoe",
+  
+  # Solar
+  "Solar Generation - TWh",
+  "Solar Consumption - Mtoe",
+  
+  # Wind
+  "Wind Generation - TWh ",
+  "Wind Consumption - Mtoe"
 )
 
 type1_ranges <- c(
+  # Primary
   "A3:BC109",
   "A3:BC109",
   
+  # Oil
   "A3:AN73",
   "A3:BC73",
   "A3:BC73",
@@ -96,6 +125,7 @@ type1_ranges <- c(
   "A3:AN97",
   "A3:BC97",
   
+  # Gas
   "A3:AN75",
   "A3:AX73",
   "A3:AX73",
@@ -104,13 +134,39 @@ type1_ranges <- c(
   "A3:BC109",
   "A3:BC109",
   "A3:T38",
-  "A3:T31"
+  "A3:T31",
+  
+  # Coal
+  "A3:AM57",
+  "A3:AM57",
+  
+  # Nuclear
+  "A3:BC109",
+  "A3:BC109",
+  
+  # Hydro
+  "A3:BC109",
+  "A3:BC109",
+  
+  #Renewables
+  "A3:BC109",
+  "A3:BC109",
+  
+  # Solar
+  "A3:BC109",
+  "A3:BC109",
+  
+  # Wind
+  "A3:BC109",
+  "A3:BC109"
 )
 
 type1_dimensions <- c(
+  # Primary
   "million_tonnes_oil_equivalent",
   "gigajoule_per_capita",
   
+  # Oil
   "thousand_million_barrels",
   "thousand_barrels_daily",
   "million_tonnes",
@@ -122,6 +178,7 @@ type1_dimensions <- c(
   "thousand_barrels_daily",
   "thousand_barrels_daily",
   
+  # Gas
   "trillion_cubic_metres",
   "billion_cubic_metres",
   "billion_cubic_feet_per_day",
@@ -130,9 +187,32 @@ type1_dimensions <- c(
   "billion_cubic_feet_per_day",
   "million_tonnes_oil_equivalent",
   "billion_cubic_metres",
-  "billion_cubic_metres"
+  "billion_cubic_metres",
+  
+  # Coal
+  "million_tonnes",
+  "million_tonnes_oil_equivalent",
+  
+  # Nuclear
+  "terawatt_hours",
+  "million_tonnes_oil_equivalent",
+  
+  # Hydro
+  "terawatt_hours",
+  "million_tonnes_oil_equivalent",
+  
+  # Renewables
+  "terawatt_hours",
+  "million_tonnes_oil_equivalent",
+  
+  # Solar
+  "terawatt_hours",
+  "million_tonnes_oil_equivalent",
+  
+  # Wind
+  "terawatt_hours",
+  "million_tonnes_oil_equivalent"
 )
 
-d1 <- pmap(list(type1_sheets, type1_ranges, type1_dimensions), read_sheet_type1)
-names(d1) <- make_clean_names(type1_sheets)
+d1 <- pmap_df(list(type1_sheets, type1_ranges, type1_dimensions), read_sheet_type1)
 ```
