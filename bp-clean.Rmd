@@ -105,7 +105,11 @@ type1_sheets <- c(
   
   # Wind
   "Wind Generation - TWh ",
-  "Wind Consumption - Mtoe"
+  "Wind Consumption - Mtoe",
+  
+  # Geo
+  "Geo Biomass Other - TWh",
+  "Geo Biomass Other - Mtoe"
 )
 
 type1_ranges <- c(
@@ -157,6 +161,10 @@ type1_ranges <- c(
   "A3:BC109",
   
   # Wind
+  "A3:BC109",
+  "A3:BC109",
+  
+  # Geo
   "A3:BC109",
   "A3:BC109"
 )
@@ -210,6 +218,10 @@ type1_dimensions <- c(
   "million_tonnes_oil_equivalent",
   
   # Wind
+  "terawatt_hours",
+  "million_tonnes_oil_equivalent",
+  
+  # Geo
   "terawatt_hours",
   "million_tonnes_oil_equivalent"
 )
