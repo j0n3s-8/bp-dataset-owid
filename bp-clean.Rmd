@@ -48,7 +48,7 @@ read_sheet_type1 <- function(x,y,z) {
     ) %>% 
     drop_na(value) %>% 
     rename(country = {{z}}) %>% 
-    filter(str_sub(country, 1, 5) != "Total")
+    filter(!str_sub(country, 1, 5) %in% c("Total","Rest ","Other"))
 }
 ```
 
@@ -109,9 +109,46 @@ type1_sheets <- c(
   
   # Geo
   "Geo Biomass Other - TWh",
-  "Geo Biomass Other - Mtoe"
+  "Geo Biomass Other - Mtoe",
+  
+  # Bio
+  "Biofuels Production - Kboed",
+  "Biofuels Production - Ktoe",
+  
+  # Electricity
+  "Electricity Generation ",
+  "Elec Gen from Oil",
+  "Elec Gen from Gas",
+  "Elec Gen from Coal",
+  "Elec Gen from Other",
+  
+  # CO2 emissions
+  "Carbon Dioxide Emissions",
+  
+  # Cobalt
+  "Cobalt Production-Reserves",
+  
+  # Lithium
+  "Lithium Production-Reserves",
+  
+  # Graphite
+  "Graphite Production-Reserves",
+  
+  # Rare earth
+  "Rare Earth Production-Reserves",
+  
+  # Geothermal capacity
+  "Geothermal Capacity",
+  
+   # Solar capacity
+  "Solar Capacity",
+  
+  # Wind capacity
+  "Wind Capacity"
 )
+```
 
+```{r}
 type1_ranges <- c(
   # Primary
   "A3:BC109",
@@ -166,9 +203,46 @@ type1_ranges <- c(
   
   # Geo
   "A3:BC109",
-  "A3:BC109"
+  "A3:BC109",
+  
+  # Bio
+  "A3:AD44",
+  "A3:AD44",
+  
+  # Electricity
+  "A3:AI108",
+  "A3:AI53",
+  "A3:AI53",
+  "A3:AI53",
+  "A3:AI53",
+  
+  # CO2 emissions
+  "A3:BC109",
+  
+  # Cobalt
+  "A3:Y17",
+  
+  # Lithium
+  "A3:Y13",
+  
+  # Graphite
+  "A3:Y16",
+  
+  # Rare earth
+  "A3:Y13",
+  
+  # Geothermal capacity
+  "A4:Y43",
+  
+  # Solar capacity
+  "A4:X69",
+  
+  # Wind capacity
+  "A4:Y41"
 )
+```
 
+```{r}
 type1_dimensions <- c(
   # Primary
   "million_tonnes_oil_equivalent",
@@ -223,8 +297,45 @@ type1_dimensions <- c(
   
   # Geo
   "terawatt_hours",
-  "million_tonnes_oil_equivalent"
+  "million_tonnes_oil_equivalent",
+  
+  # Bio
+  "thousand_b_doe",
+  "thousand_tonnes_oil_equivalent",
+  
+  # Electricity
+  "terawatt_hours",
+  "terawatt_hours",
+  "terawatt_hours",
+  "terawatt_hours",
+  "terawatt_hours",
+  
+  # CO2 emissions
+  "million_tonnes_of_carbon_dioxide",
+  
+  # Cobalt
+  "thousand_tonnes",
+  
+  # Lithium
+  "thousand_tonnes_of_lithium_content",
+  
+  # Graphite
+  "thousand_tonnes",
+  
+  # Rare earth
+  "thousand_tonnes1",
+  
+  # Geothermal capacity
+  "megawatts",
+  
+  # Solar capacity
+  "megawatts",
+  
+  # Wind capacity
+  "megawatts"
 )
+```
 
-d1 <- pmap_df(list(type1_sheets, type1_ranges, type1_dimensions), read_sheet_type1)
+```{r}
+d1 <- pmap(list(type1_sheets, type1_ranges, type1_dimensions), read_sheet_type1)
 ```
