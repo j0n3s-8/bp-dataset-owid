@@ -1,0 +1,917 @@
+country_name,id,owid_country,year,value,unit,category,sheet
+Canada,1540,595,2000,2015.4220594995272,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2000,3011.965097562842,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2000,5821.604,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2000,775.8685274862071,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2000,1235,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2000,687,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2000,400,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2000,95.33172131147542,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2000,119.10651912568306,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2000,2936.479762568306,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2000,363,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2000,94.90613387978142,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2000,3206.9841626066127,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2000,123.97655737704918,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2000,2493.925854494288,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2000,281.18497267759557,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2000,740.2079234972678,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2000,6472.930504098362,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2000,139.21857923497268,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2000,158.77049180327867,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2000,3768.661081,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2000,2598,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2000,2086,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2000,954.796994535519,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2000,781.3268710152983,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2000,8094.5,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2000,545,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2000,2333.6099999999997,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2000,436.502,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2000,1289.145491803279,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2000,746.0614754098362,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2000,256,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2000,743.7805464480875,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2000,109,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2000,276,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2000,1414.5902,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2000,2141.9314999999997,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2000,179.1319043715847,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2000,76.9420218579235,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2000,709.7518680901776,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2000,178,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2000,3256.8431693989073,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2000,660.9118032786886,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2000,1413.7040819672131,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2000,681,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2000,110.30000000000001,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2000,329.3808743169399,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2001,2055.568741108068,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2001,3127.036422427397,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2001,5801.401,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2001,812.9533641586619,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2001,1297,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2001,604,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2001,407,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2001,93.13241917808219,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2001,113.42047945205479,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2001,2996.4060418504755,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2001,348,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2001,85.66861095890413,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2001,3214.6306663866962,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2001,123.67838356164384,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2001,2305.3718590604367,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2001,300.1553424657534,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2001,841.4902465753426,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2001,6988.132099999999,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2001,156.38,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2001,152.7858904109589,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2001,3741.745205,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2001,2502,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2001,2025,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2001,955.7775342465753,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2001,777.8091927105321,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2001,7888.9,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2001,579,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2001,2282.0499999999997,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2001,438.7296,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2001,1260.8055342465755,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2001,742.0150684931507,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2001,236,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2001,719.6713013698632,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2001,180,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2001,262,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2001,1367.7246,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2001,2120.2183999999997,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2001,209.00812054794523,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2001,70.55838356164384,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2001,658.3566618359131,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2001,188,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2001,3310.147671232877,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2001,659.5867397260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2001,1342.0528767123287,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2001,666,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2001,113.761,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2001,341.27178082191784,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2002,2207.0084282259536,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2002,3177.0990143068493,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2002,5744.078,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2002,801.6631150317161,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2002,1454,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2002,578,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2002,392,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2002,92.77352328767124,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2002,130.6426301369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2002,2796.298352191781,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2002,371,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2002,114.76688219178082,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2002,3118.195729869563,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2002,119.5427397260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2002,2288.9286561901376,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2002,307.0395890410959,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2002,992.5779999999999,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2002,7622.86907479452,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2002,176.00000000000003,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2002,152.99287671232878,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2002,3533.619178,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2002,2096,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2002,1877,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2002,897.3775342465754,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2002,728.9806692607929,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2002,7093.1,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2002,624,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2002,2071.6,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2002,438.2564,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2002,1355.6733150684931,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2002,905.4410958904109,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2002,227,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2002,715.5088493150686,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2002,214,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2002,256,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2002,1314.9196,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2002,1907.73,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2002,236.18449041095892,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2002,73.44476712328768,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2002,650.7792837519014,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2002,195,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2002,3351.0350136986303,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2002,678.5664657534247,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2002,1248.5997671232878,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2002,698,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2002,129.291,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2002,341.88000000000005,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2003,2342.3703251410666,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2003,3370.895968945206,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2003,5649.3,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2003,782.8142119757869,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2003,1499,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2003,541,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2003,418,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2003,87.32223561643836,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2003,134.7709397260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2003,2722.9514871232873,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2003,368,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2003,115.56920547945207,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2003,3030.1588031577603,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2003,116.27126027397259,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2003,2090.830154581954,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2003,307.9339726027397,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2003,1080.63777260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2003,8461.01916010959,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2003,195.48,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2003,150.58232876712327,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2003,3988.573973,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2003,1334,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2003,2196,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2003,819.5090410958903,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2003,841.3022850004588,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2003,8530.8781369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2003,602,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2003,2423.36,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2003,430.8732,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2003,1535.5504657534248,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2003,869.5630685,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2003,23.561643835616437,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2003,208,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2003,712.6553424657535,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2003,241,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2003,274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2003,1425,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2003,2254.6413,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2003,262.13031506849313,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2003,66.78712328767124,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2003,558.3526861481591,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2003,200,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2003,3405.638493150685,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2003,686.0470684931507,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2003,1139.2168684931507,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2003,738,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2003,158.985,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2003,358.8493150684931,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2004,2413.1597885616548,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2004,3382.8983053961747,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2004,5440.968,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2004,733.4490604091802,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2004,1481,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2004,528.29,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2004,526,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2004,84.8831393442623,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2004,122.89577595628415,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2004,3143.7158175435884,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2004,390,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2004,113.16259562841532,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2004,2946.461499251027,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2004,112.0754644808743,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2004,1870.6975751141147,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2004,308.6536885245902,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2004,1247.8088743169399,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2004,9190.654879344263,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2004,187.26693989071038,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2004,138.41284153005466,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2004,4109.793443,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2004,2012,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2004,2337,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2004,779.7396174863387,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2004,957.3640204544984,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2004,9121.990464480874,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2004,442,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2004,2517.0499999999997,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2004,402.8064,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2004,1628.3487978142077,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2004,1102.677,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2004,167.75956284153006,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2004,217,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2004,666.5108852459018,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2004,303,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2004,273,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2004,1565.362511,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2004,2441.547,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2004,291.13726724043715,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2004,70.23953551912568,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2004,481.2505193608436,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2004,193.93270354861167,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2004,3485.775491803279,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2004,705.5203005464482,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2004,1094.224683060109,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2004,762,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2004,153.72000000000003,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2004,405.4027322404372,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2005,2372.3942628369837,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2005,3333.3486549452055,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2005,5183.822,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2005,705.0196186962337,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2005,1633.5758605061599,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2005,526.1618191780822,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2005,532,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2005,92.84589315068493,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2005,144.4253397260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2005,3139.3406753424656,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2005,379.97549780821925,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2005,126.78149589041097,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2005,2689.771185563657,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2005,107.3004109589041,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2005,1668.899279977669,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2005,444.91860273972605,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2005,1294.3286712328768,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2005,9442.94498842009,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2005,193.0512938946751,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2005,114.78808219178083,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2005,4095.179452,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2005,1813,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2005,2485,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2005,774.2890410958904,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2005,1009.5318566406534,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2005,9597.420595628415,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2005,413,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2005,2643,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2005,399.8493,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2005,1691.7640712328766,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2005,1264.8159452054795,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2005,173.42465753424656,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2005,239.0657,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2005,633.7035616438357,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2005,304.8764,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2005,270.3301,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2005,1674.477038935756,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2005,2430.5015000000003,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2005,293.6804144109589,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2005,71.67501369863014,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2005,470.4840645212911,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2005,191.69562286428734,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2005,3641.963717808219,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2005,673.8998630136987,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2005,1062.0630136986301,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2005,703.5123287671233,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2005,183.377,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2005,375.453698630137,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2006,2504.754282953251,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2006,3255.5786794602736,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2006,5085.864,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2006,697.917659477695,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2006,1722.7294129223849,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2006,527.4087260273973,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2006,535.6796174520548,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2006,95.85148219178083,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2006,143.4501808219178,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2006,3162.890410958904,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2006,345.53852986301376,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2006,119.68302739726028,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2006,2484.948685630001,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2006,98.28841095890412,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2006,1508.5239901210393,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2006,646.1666849315069,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2006,1367.8913671232879,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2006,9655.699395359125,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2006,168.66586729745296,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2006,113.87260273972603,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2006,4127.4410960000005,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2006,1974,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2006,2546,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2006,737.6501369863014,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2006,1090.857380910633,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2006,9465.209279452054,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2006,386,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2006,2828,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2006,365.579,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2006,1696.745479452055,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2006,1381.603216438356,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2006,153.15068493150685,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2006,270.7236,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2006,623.0579719452055,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2006,343.4712328767123,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2006,241.9401,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2006,1810.076483873254,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2006,2314.7414,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2006,356.16085090410957,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2006,68.72542465753425,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2006,432.3427318874737,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2006,205.0178263013496,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2006,3710.500221917808,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2006,698.226684931507,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2006,1005.6136986301369,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2006,666.9260273972602,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2006,204.2,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2006,340.60273972602744,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2007,2606.887023546813,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2007,3075.7098209561645,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2007,5073.9,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2007,689.1160809965603,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2007,1747.992318544372,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2007,531.0939232876713,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2007,511.088074520548,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2007,94.67900547945206,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2007,121.26452054794521,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2007,3061.8356164383604,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2007,311.2730931780822,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2007,121.5776202341096,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2007,2264.3666943819276,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2007,93.45320547945205,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2007,1513.8557218140518,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2007,855.5625753424657,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2007,1413.2783808219178,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2007,9868.470277260272,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2007,184.92281836226772,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2007,103.8127501369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2007,4169.972602863014,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2007,2116.2118,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2007,2470.61937377691,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2007,710.3931506849315,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2007,1100.2309549220088,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2007,9074.284794520549,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2007,369,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2007,2784,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2007,318.9312,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2007,1687.0501369863014,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2007,1634.2929061614727,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2007,143.56164383561645,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2007,220.9285,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2007,637.7361168074809,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2007,351.54794520547944,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2007,245.5558,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2007,1842.678743111529,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2007,2136.0765,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2007,483.11566027397265,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2007,95.77736986301372,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2007,458.86216054953263,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2007,179.36218560304317,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2007,3741.677824657535,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2007,707.4364657534248,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2007,954.3780821917808,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2007,682.7123287671233,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2007,213.40800000000002,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2007,322.76164383561644,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2008,2581.1406986105912,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2008,2791.575975437158,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2008,4999.671,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2008,679.4401901584803,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2008,1812.224568515111,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2008,587.6582704918033,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2008,504.71857923497265,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2008,97.62672404371585,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2008,114.27872404371584,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2008,3063.58469945355,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2008,287.2285459836066,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2008,108.33095053442622,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2008,2175.404340959491,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2008,93.19786885245901,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2008,1404.4591799627499,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2008,894.5147540983605,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2008,1483.4672295081969,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2008,9784.148040530608,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2008,197.5902479573411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2008,101.83087431693988,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2008,4173.098360551912,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2008,2394,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2008,2574.494535519126,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2008,756.75,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2008,1210.7965846994534,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2008,9453.406505464482,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2008,371,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2008,2819.2,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2008,294.5184,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2008,1643.2632513661201,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2008,1854.6835407510243,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2008,127.04918032786885,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2008,234.736,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2008,650.6472301299042,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2008,348.5792349726776,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2008,239.5736,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2008,1807.980855734626,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2008,2100.3987213114756,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2008,456.9514590163934,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2008,87.27939890710383,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2008,455.41445380757165,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2008,160.53917906913853,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2008,3813.9952677595625,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2008,703.4983606557378,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2008,976.7759562841529,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2008,688.0081967213114,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2008,228.828,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2008,301.3377049180328,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2009,2576.3754101137697,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2009,2601.481209032877,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2009,5349.096,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2009,603.684576243463,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2009,1950.3604431398385,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2009,670.6032356164384,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2009,486.06575342465754,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2009,117.26427945205481,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2009,106.75613424657534,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2009,2879.22191780822,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2009,264.7752142191781,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2009,94.86296126232875,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2009,2057.1466392192224,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2009,90.24345205479452,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2009,1343.635520061349,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2009,1014.2503561643837,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2009,1609.105495890411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2009,9927.315593816988,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2009,194.06735333622603,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2009,95.21013698630136,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2009,4014.942684931507,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2009,2404.712,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2009,2278.383562,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2009,812.5202739726027,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2009,1151.0152246575344,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2009,8410.957657534247,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2009,366,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2009,2495.036235970435,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2009,286.1318,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2009,1517.3367945205482,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2009,1733.9890410958903,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2009,117.8082191780822,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2009,269.0879,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2009,664.5207940283817,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2009,309.66027397260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2009,241.0003,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2009,1687.2794712328766,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2009,2137.9395616438355,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2009,475.21246301369865,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2009,82.46208219178084,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2009,422.9772957623709,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2009,154.67320058639248,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2009,3805.374520547945,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2009,690.167991780822,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2009,948.8027397260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2009,658.8465753424657,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2009,237.941,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2009,331.68219178082194,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2010,2724.3893044210317,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2010,2577.019421063014,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2010,5477.677,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2010,589.3335173706864,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2010,2054.664244693908,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2010,785.8646000000001,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2010,486.0870101369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2010,122.78345479452057,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2010,98.18234520547946,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2010,2694.72602739726,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2010,249.45960065753422,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2010,105.94095080273974,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2010,1870.7292628577127,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2010,85.75802739726028,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2010,1245.1632828417428,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2010,1023.2578904109588,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2010,1675.590095890411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2010,10150.34402736,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2010,199.14765054398057,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2010,77.71547506849315,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2010,4068.405821917808,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2010,2424.041,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2010,2306.821918,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2010,864.5882191780821,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2010,1307.4226657534246,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2010,8423.052054794522,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2010,350,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2010,2603.0168077813387,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2010,283.8949,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2010,1460.77701369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2010,1793.0821917808219,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2010,121.91780821917808,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2010,306.8935,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2010,663.3240915429416,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2010,286.4328767123288,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2010,233.195,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2010,1748.4634328767124,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2010,2454.9134410958904,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2010,462.07089589041095,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2010,78.7329589041096,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2010,470.75360262548276,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2010,159.47488122570067,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2010,4076.966082191781,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2010,761.7647260273974,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2010,944.8986301369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2010,653.3643835616438,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2010,241.801,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2010,304.3934246575343,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2011,2899.5458861327825,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2011,2552.615388326027,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2011,5654.27,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2011,553.4322938162741,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2011,2105.3955715889183,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2011,915.2647150684932,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2011,499.60800101369864,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2011,116.6096,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2011,91.91894520547945,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2011,2623.1780821917805,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2011,224.507517260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2011,110.09963248630139,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2011,1758.3841959844954,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2011,83.84452054794521,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2011,1035.7906161222593,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2011,918.7969589041096,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2011,1684.0448356164386,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2011,10286.597701255889,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2011,212.35642328414258,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2011,76.57890410958905,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2011,4048.3041095890435,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2011,2728.11,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2011,2645.05479452055,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2011,884.9202739726028,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2011,1398.514583561644,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2011,9566.205479452055,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2011,319,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2011,2855.86659507684,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2011,197.2243,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2011,1416.3678630136988,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2011,1656.4383561643835,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2011,113.6986301369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2011,291.7626,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2011,649.1911260669187,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2011,279.93424657534246,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2011,236.282,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2011,507.5390684931507,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2011,2373.274608219178,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2011,291.0022712328767,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2011,69.96846575342467,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2011,411.2887945162329,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2011,152.59357633485186,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2011,4074.1846986301375,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2011,793.1253232876712,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2011,902.0520547945205,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2011,582.9968684931507,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2011,224.127,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2011,307.8602739726028,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2012,3130.68283812279,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2012,2547.91175518852,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2012,6501.515,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2012,549.389199503911,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2012,2061.22198665661,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2012,944.119226775956,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2012,503.615535592896,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2012,111.734087431694,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2012,81.734825136612,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2012,2579.85519125683,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2012,204.235334945355,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2012,111.649457903689,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2012,1611.50017476583,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2012,79.203825136612,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2012,891.40106148828,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2012,871.897431693989,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2012,1662.39130601093,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2012,10395.296037809,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2012,219.882481060221,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2012,67.7286885245902,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2012,3397.71584699454,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2012,3037,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2012,2889.9043715847,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2012,918.471857923497,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2012,1491.16502568306,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2012,9986.79781420765,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2012,146,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2012,2960.61076326938,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2012,154.0742,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2012,1320.43420765027,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2012,1714.20765027322,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2012,100.819672131148,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2012,268.4701,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2012,649.372320753233,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2012,299.483333333333,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2012,221.148,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2012,1498.5328,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2012,2329.99085519126,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+South Sudan,1924,750,2012,31.041,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2012,103.1075,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2012,69.630218579235,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2012,405.408204820079,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2012,146.169563417272,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2012,4155.22879781421,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2012,786.108806994536,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2012,859,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2012,597.557549180328,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2012,238.616,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2012,338.38218579235,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2013,3358.44875476826,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2013,2522.12710525753,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2013,7466.933,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2013,539.940373461914,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2013,2023.87176545136,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2013,1009.87169580658,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2013,526.353560520548,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2013,117.600076712329,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2013,81.156895890411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2013,2564.35616438356,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2013,178.177988876712,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2013,114.130731379726,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2013,1532.482558527,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2013,83.1861095890411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2013,815.123621356518,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2013,876.988479452055,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2013,1720.1338739726,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2013,10528.3585407908,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2013,236.741849881365,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2013,63.2894267160045,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2013,3191.59726027397,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2013,3058,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2013,2846.60273972603,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2013,941.949315068493,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2013,1519.56794041096,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2013,9874.80821917808,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2013,45,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2013,3094.89130327049,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2013,172.7589,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2013,1275.09824657534,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2013,1715.55202465753,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2013,90.6353972117977,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2013,233.5491,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2013,643.075206930139,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2013,261.422465753425,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2013,213.405,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2013,1025.47945753425,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2013,2193.11808767123,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+South Sudan,1924,750,2013,99.7288,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2013,117.8534,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2013,64.0060821917808,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2013,334.676590520141,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2013,122.022183755324,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2013,4216.44262753425,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2013,789.455235369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2013,825,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2013,588.208219178082,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2013,240.64,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2013,336.807452054795,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2014,3609.98948744765,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2014,2428.76752682192,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2014,8758.6,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2014,532.129633382136,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2014,2254.59744649637,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2014,990.37905113339,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2014,556.553902871233,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2014,121.381556221133,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2014,81.2618602739726,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2014,2578.49315068493,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2014,166.84044769863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2014,119.58890892411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2014,1562.34018673391,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2014,81.5400821917808,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2014,796.40615311206,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2014,849.021356164384,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2014,1700.56283287671,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2014,10595.463165739,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2014,239.790028206017,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2014,61.3076133343354,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2014,3272.98356164384,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2014,3198.28767123288,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2014,2829.86301369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2014,943.478904109589,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2014,1508.39200273973,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2014,9941.46712328767,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2014,23,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2014,3063.41190564371,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2014,127.795,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2014,1328.87123287671,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2014,1671.67261369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2014,88.8044787360511,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2014,245.1764,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2014,667.400380821918,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2014,265.568767123288,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2014,210.905,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2014,510.1918,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2014,2187.78517534247,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+South Sudan,1924,750,2014,155.3516,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2014,119.6045,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2014,59.2656712328767,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2014,353.300978618054,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2014,114.353694128676,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2014,4245.9577260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2014,777.858473479452,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2014,788.77,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2014,610.016438356164,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2014,232.852,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2014,315.260273972603,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2015,3678.82069581521,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2015,2266.83141875616,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2015,9430.652,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2015,532.438814700419,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2015,2437.44034926069,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2015,1005.57443561644,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2015,543.09486060274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2015,103.6658201019,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2015,78.6297863013699,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2015,2513.863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2015,157.799155835616,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2015,113.467557267351,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2015,1608.16097549683,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2015,80.2849863013699,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2015,908.860878410839,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2015,840.024452054795,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2015,1671.95160821918,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2015,10758.0456343378,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2015,245.136736199347,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2015,59.4562496727791,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2015,3392.2192,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2015,3945.274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2015,2781.5342,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2015,981.089863013699,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2015,1462.70245,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2015,10420.2712328767,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2015,19,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2015,3284.17526735532,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2015,37.5701,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2015,1289.88002739726,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2015,1779.524,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2015,110.613880691072,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2015,227.2085,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2015,662.016438356164,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2015,242.331780821918,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2015,213.54,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2015,421.643835616438,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2015,2119.06463561644,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+South Sudan,1924,750,2015,147.7376,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2015,109.062156164384,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2015,53.6614520547945,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2015,322.251043547128,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2015,115.319992908411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2015,4308.83506849315,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2015,771.14911169863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2015,785.793,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2015,661.61,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2015,248.016,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2015,342.204383561644,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2016,3677.88515085299,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2016,2153.52615513661,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2016,8830.672,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2016,510.543966214038,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2016,2509.97121507952,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2016,885.898433551913,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2016,548.391832650273,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2016,90.8606543562318,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2016,71.4864426229508,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2016,2242,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2016,141.703719289617,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2016,77.7772548113716,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2016,1648.01189027869,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2016,75.6334972677596,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2016,939.66393442623,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2016,826.397226775956,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2016,1637.28183879781,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2016,11002.8141999454,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2016,224.33707720417,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2016,57.7386553570762,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2016,4090.1803,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2016,4375.1366,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2016,2860.1093,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2016,1004.26256830601,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2016,1464.7442,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2016,10688.2,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2016,17,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2016,3383.90892404307,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2016,16.2705,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2016,1315.77540983607,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2016,1721.62030054645,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2016,102.955043105157,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2016,225,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2016,631.358879781421,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2016,203.679234972678,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2016,220.657,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2016,396.775956284153,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2016,1821.69127322404,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+South Sudan,1924,750,2016,117.2098,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2016,103.613581967213,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2016,51.0355464480874,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2016,291.803239723482,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2016,109.079467812305,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2016,3999.15587431694,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2016,744.371159016394,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2016,831.058,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2016,666.83,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2016,257.569,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2016,307.164699453552,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2017,3976.66353425447,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2017,1948.26317303836,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2017,9351.714,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2017,479.633023494201,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2017,2621.71996542541,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2017,854.039949693151,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2017,531.31257290411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2017,88.1205545194673,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2017,71.8238202063088,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2017,1992.0428,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2017,138.246254328767,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2017,86.042492460274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2017,1617.42107612694,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2017,72.7955616438356,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2017,917.482328767123,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2017,781.408547945206,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2017,1813.09135068493,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2017,11016.9805704658,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2017,209.221981512902,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2017,60.9004657534247,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2017,4470.99543671074,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2017,4469,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2017,2704.236,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2017,970.569589041096,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2017,1415.53620745643,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2017,10175.162,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2017,16.5986301369863,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2017,3279.5170355616,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2017,33,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2017,1286.71468493151,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2017,1637.49166260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2017,103.76605152868,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2017,263,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2017,602.900684931507,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2017,174.079452054795,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2017,210.066,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2017,908.904109589041,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2017,1911.6849556503,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+South Sudan,1924,750,2017,111.203,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2017,94.6155496111484,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2017,43.2536164383562,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2017,284.126226557661,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2017,100.587292908807,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2017,3845.86021917808,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2017,743.789972027397,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2017,801.024,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2017,647.806336958604,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2017,239.82,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2017,274.860328767123,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Canada,1540,595,2018,4302.37679981746,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Mexico,1818,692,2018,1833.29511392055,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+usa,1996,776,2018,10961.62,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Argentina,1474,569,2018,489.493518320772,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brazil,1527,589,2018,2586.62325228368,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Colombia,1590,605,2018,866.10073128854,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Ecuador,1619,620,2018,517.230716421918,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Peru,1866,722,2018,97.9918115301331,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Trinidad & Tobago,2183,767,2018,63.494622946,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Venezuela,2016,780,2018,1425.41348966114,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Denmark,1614,617,2018,116.265053780822,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Italy,1727,663,2018,97.1513058712329,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Norway,1858,715,2018,1514.94732439691,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Romania,1893,735,2018,71.4993150684931,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Kingdom,1654,635,2018,1005.05345751119,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Azerbaijan,1485,575,2018,783.329,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kazakhstan,1733,667,2018,1899.69900821918,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Russian Federation,1896,736,2018,11200.6265532055,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Turkmenistan,1956,764,2018,196,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Uzbekistan,1999,777,2018,63.9665205479452,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iran,1716,659,2018,4156.41922208334,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Iraq,1724,660,2018,4550,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Kuwait,1771,674,2018,2737,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Oman,1863,719,2018,978.387397260274,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Qatar,1890,733,2018,1407.6598,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Saudi Arabia,1898,738,2018,10533.6747402846,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Syria,1944,758,2018,16.0491803278689,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+United Arab Emirates,1465,568,2018,3300.67604507684,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Yemen,2048,787,2018,40.0411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Algeria,1618,619,2018,1258.05271232877,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Angola,1454,563,2018,1482.55857929392,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Chad,1951,760,2018,100.588885816138,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Congo (Republic of),2343,603,2018,327,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Egypt,1620,621,2018,614.704812703072,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Equatorial Guinea,1677,643,2018,169.011729504137,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Gabon,1653,634,2018,194,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Libya,1778,678,2018,988.3014,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Nigeria,1851,711,2018,1966.77870063878,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+South Sudan,1924,750,2018,130.7169,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Sudan,1900,739,2018,100.040774743837,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Tunisia,1974,768,2018,41.7484019464107,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Australia,1482,573,2018,294.824928310306,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Brunei,1530,591,2018,99.5241597974608,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+China,1549,599,2018,3797.66295890411,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+India,1713,657,2018,718.965203178082,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Indonesia,1711,656,2018,772.127482591763,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Malaysia,1844,706,2018,646.267702932231,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Thailand,1953,762,2018,228.21,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds
+Vietnam,2033,783,2018,243.064657534247,thousand_barrels_daily,oil_production_crude_conds,Oil Production - Crude Conds

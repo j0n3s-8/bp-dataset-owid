@@ -1,0 +1,457 @@
+country_name,id,owid_country,year,value,unit,category,sheet
+Canada,1540,595,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2000,6.531408,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2000,4.39614,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2000,11.73788159863004,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2000,3.6720698524159663,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2000,8.865549,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2000,3.8727899999999997,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2000,73.96912401397044,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2000,20.599056,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2000,6.17553,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2000,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2001,6.897753000000001,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2001,2.51208,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2001,12.035692587690244,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2001,3.5637940414915965,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2001,10.299527999999999,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2001,5.055561,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2001,76.00189444987927,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2001,22.849460999999998,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2001,6.59421,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2001,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2002,6.782616,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2002,3.45411,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2002,14.212113197079512,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2002,3.3987638130252105,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2002,13.918518574328786,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2002,5.236359,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2002,75.35131126630937,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2002,25.026597,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2002,7.3269,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2002,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2003,14.147540522861311,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2003,3.297105,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2003,12.385235998625571,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2003,3.330052342436975,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2003,16.41413983680619,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2003,4.892421,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2003,81.43085493581832,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2003,26.328020263297844,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2003,7.829316,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2003,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2004,18.2091461374557,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2004,2.983095,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2004,10.593386792430378,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2004,1.7637989101890754,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2004,18.3018791248545,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2004,4.469409,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2004,2.752821,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2004,78.50380561000861,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2004,30.688422348278593,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2004,9.556371,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2004,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2005,17.569419891806167,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2005,3.119166,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2005,13.316061,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2005,2.61675,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2005,23.026733274889253,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2005,5.107896,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2005,0.49089291753200004,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2005,6.322068,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2005,79.55076305617021,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2005,31.111916325972295,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2005,9.814246183723405,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2005,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2006,0.9838979999999999,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2006,16.211519739404718,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2006,4.479876,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2006,14.688384605000001,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2006,3.24477,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2006,25.45545794246375,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2006,5.153274827205882,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2006,3.3818297393047496,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2006,1.0467,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2006,8.363133,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2006,85.63328876702484,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2006,34.46097143661909,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2006,10.801469694684876,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2006,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2007,2.271339,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2007,21.548301834504795,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2007,2.7928946079999992,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2007,13.168004,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2007,2.543481,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2007,25.21687151450175,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2007,5.623638751575631,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2007,1.3412838293600002,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2007,4.0507290000000005,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2007,10.446066,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2007,91.97983561167416,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2007,35.996013,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2007,11.429964,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2007,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2008,3.7785870000000004,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2008,9.73963226568421,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2008,0.42914700000000006,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2008,3.024963,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2008,12.805183,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2008,1.632852,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2008,29.84170227826825,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2008,5.557977,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2008,0.8140925416815,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2008,4.647348,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2008,11.293893,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2008,95.35253994210998,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2008,38.256885,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2008,12.601286953741505,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2008,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2009,1.015299,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2009,3.726252,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2009,12.55375224148135,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2009,1.004832,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2009,0.4200582180652373,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2009,0.680355,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2009,6.834951,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2009,13.295513,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2009,3.03543,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2009,27.515597849099997,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2009,5.96619,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2009,10.101378507337,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2009,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2009,0.9315630000000001,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2009,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2009,7.9967880000000005,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2009,12.958146000000001,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2009,88.90243437674289,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2009,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2009,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2009,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2009,35.341344775430976,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2009,12.35106,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2009,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2010,2.0318940539118646,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2010,6.060040779028016,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2010,12.107318319304749,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2010,1.9026000000104573,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2010,2.7988887175055384,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2010,3.098929139367611,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2010,6.537294098825424,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2010,14.70807221700234,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2010,9.26158605181725,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2010,28.1614311126,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2010,7.7534625869331695,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2010,18.791323314974164,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2010,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2010,2.829187951858725,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2010,0.1735483114701596,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2010,13.019975943896686,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2010,11.532434377875044,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2010,96.40206152028304,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2010,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2010,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2010,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2010,44.954084722232814,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2010,14.966410580136117,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2010,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2011,3.2322617183382687,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2011,3.7534656783547082,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2011,9.856067509250853,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2011,3.7237843390621785,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2011,0.6678914826836014,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2011,3.667118820739442,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2011,6.320361178027509,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2011,14.411326100385171,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2011,9.065722677510596,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2011,23.8887444627,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2011,5.920577923152852,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2011,24.73148113953775,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2011,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2011,3.001575483280624,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2011,1.4330984199019332,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2011,16.87966220938099,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2011,17.352482731370845,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2011,108.59253254622536,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2011,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2011,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2011,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2011,47.6993936746168,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2011,16.268190248125833,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2011,1.0606575322017284,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2012,1.6177805228288986,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2012,4.856550613936903,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2012,4.889293908517367,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2012,4.675746430130114,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2012,3.4881466960200718,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2012,3.974339879323801,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2012,4.069813646185165,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2012,9.790154568769369,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2012,7.058435455129001,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2012,21.3955662456,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2012,7.558636858298713,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2012,13.947178327940147,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2012,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2012,2.792591213708979,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2012,1.389528596564104,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2012,20.06899387207653,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2012,18.431269030533493,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2012,119.80540919876707,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2012,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2012,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2012,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2012,49.66435277275116,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2012,17.142730322681672,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2012,1.3542526530139085,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2013,1.0025097246358652,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2013,7.758951872421048,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2013,2.6844042859567336,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2013,6.316796753222875,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2013,5.2358708038295445,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2013,3.801047729451772,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2013,3.12399466160277,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2013,8.322564091998302,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2013,5.778319221336167,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2013,15.654807569699999,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2013,5.905057360983587,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2013,9.235830400096,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2013,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2013,2.274751636086759,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2013,1.5604555798913151,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2013,25.068463746550943,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2013,17.956173721026676,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2013,120.41888759439246,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2013,1.98920623407633,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2013,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2013,1.2729155318849639,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2013,55.315266018022136,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2013,17.191322661655754,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2013,1.9750423710502043,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2014,0.521691785132325,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2014,9.291748922998126,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2014,1.6570528215982934,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2014,6.229506646911107,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2014,7.080942876541549,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2014,3.533079247913155,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2014,2.8593067482723074,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2014,6.91679481892061,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2014,4.49796521010284,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2014,16.208383299299996,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2014,7.070430109264354,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2014,11.151887356121499,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2014,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2014,3.5938059096714907,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2014,1.5858319039402404,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2014,27.265690251737738,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2014,19.146348543927516,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2014,121.81414636719823,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2014,2.186589669172246,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2014,0,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2014,2.560721976443535,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2014,51.75543445277391,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2014,18.583224408211034,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2014,1.859778969994599,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2015,0.591407877302698,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2015,6.842154842191205,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2015,2.5411142021207196,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2015,5.61293791227773,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2015,6.765139123180657,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2015,3.716506222654552,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2015,3.5861688118427546,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2015,6.4266534688062205,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2015,5.89428839224,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2015,13.6730873034,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2015,7.537896412682408,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2015,13.716582200276,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2015,3.9082118284529996,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2015,4.2591569669858576,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2015,2.851896027692323,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2015,27.001924125656572,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2015,20.02977569854869,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2015,115.87157287835366,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2015,2.16431842454475,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2015,1.4866142180977402,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2015,2.9679583745886053,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2015,45.7768920203703,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2015,19.56410587640158,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2015,3.5987495200430257,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2016,0.3086849301152943,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2016,5.5525978635141495,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2016,2.438835335897902,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2016,5.096689300318551,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2016,2.6311614132041523,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2016,4.502336445891136,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2016,2.4121057341801455,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2016,9.130652904582082,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2016,5.927379781934878,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2016,13.789170405000002,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2016,7.579615790323628,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2016,10.788362435187869,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2016,10.712891751401148,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2016,4.723463402188835,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2016,4.245364002484018,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2016,36.76057821822889,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2016,24.28580434473348,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2016,113.550518375,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2016,1.5378765888987938,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2016,3.9719835784339135,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2016,3.2006957334400346,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2016,46.32122479952143,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2016,20.408479407909052,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2016,3.8652866921547044,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2017,0.4017917155101341,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2017,6.597351197833282,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2017,2.1599279137676763,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2017,4.6037457964365425,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2017,1.7112458898929273,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2017,4.350093449273207,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2017,1.2892740783051935,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2017,10.88474260773216,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2017,8.172670541863473,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2017,16.555342172399996,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2017,10.854813270107895,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2017,7.21970271589875,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2017,8.308827564838317,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2017,4.780875865771775,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2017,2.9948859353654003,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2017,52.93334788065843,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2017,26.14416843538068,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2017,113.94838745,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2017,2.0190608353523207,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2017,6.088086050635401,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2017,4.143486607149577,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2017,51.40333948710169,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2017,22.71983218842891,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2017,5.2381635503729695,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Canada,1540,595,2018,0.6272111965976805,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Mexico,1818,692,2018,6.874280853622354,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+usa,1996,776,2018,2.1167427752308945,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Argentina,1474,569,2018,3.593354244390791,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Brazil,1527,589,2018,2.872117788642539,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Chile,1548,598,2018,4.299433591728264,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Belgium,1487,577,2018,3.6771450107305834,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+France,1640,630,2018,13.146330247618382,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Italy,1727,663,2018,8.02861738473326,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Spain,1628,624,2018,15.030513348300001,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Turkey,1975,769,2018,11.52219538457985,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Kingdom,1654,635,2018,7.3295319885627945,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Egypt,1620,621,2018,3.165441987760218,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Kuwait,1771,674,2018,4.30134509994414,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+United Arab Emirates,1465,568,2018,1.0429059660770115,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+China,1549,599,2018,73.45250131445924,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+India,1713,657,2018,30.596983810416358,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Japan,1732,666,2018,112.97496944798831,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Malaysia,1844,706,2018,1.7950758733556051,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Pakistan,1864,720,2018,9.387506794234675,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Singapore,1902,741,2018,4.49842840871902,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+South Korea,1758,673,2018,60.21207914907173,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Taiwan,1979,771,2018,22.82976458607424,billion_cubic_metres,gas_lng_imports,Gas - LNG imports
+Thailand,1953,762,2018,6.236879627702709,billion_cubic_metres,gas_lng_imports,Gas - LNG imports

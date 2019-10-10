@@ -1,0 +1,343 @@
+country_name,id,owid_country,year,value,unit,category,sheet
+usa,1996,776,2000,1.6988425954861108,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2000,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2000,4.0176306608952705,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2000,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2000,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2000,26.016581741596642,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2000,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2000,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2000,6.056833709449366,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2000,2.585005277469136,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2000,14.474260111708862,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2000,7.513580781215547,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2000,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2000,10.256303999085366,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2000,8.908157401219514,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2000,36.62561701872342,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2000,21.4870988290625,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2000,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2001,1.75067709375,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2001,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2001,3.820455,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2001,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2001,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2001,26.37577807090336,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2001,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2001,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2001,7.718897558278481,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2001,7.747405282098765,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2001,17.473122127531646,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2001,7.699464143396884,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2001,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2001,10.406762246189027,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2001,9.108686425609758,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2001,32.5850434625532,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2001,21.343489668750003,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2001,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2002,1.77939,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2002,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2002,5.531697589054054,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2002,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2002,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2002,27.702850044642854,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2002,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2002,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2002,8.06441296836076,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2002,8.755575294358025,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2002,19.078671463,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2002,7.406485511238415,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2002,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2002,10.500674110640244,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2002,9.604466215890245,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2002,35.933211,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2002,20.828648967418747,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2002,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2003,1.6976577673611106,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2003,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2003,11.665314230351054,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2003,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2003,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2003,29.058346430550408,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2003,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2003,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2003,11.805333195210977,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2003,9.233027120940283,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2003,19.42582392449165,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2003,7.696540335293545,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2003,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2003,10.650922932410062,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2003,9.710646814987806,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2003,36.47390120004256,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2003,23.75159034155169,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2003,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2004,1.702520412847222,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2004,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2004,13.708129960859912,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2004,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2004,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2004,25.024910387054227,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2004,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2004,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2004,13.1340141259611,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2004,9.433614807512575,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2004,24.82853069569281,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2004,8.201528780367541,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2004,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2004,12.187866431199408,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2004,9.574069178048783,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2004,34.02655959153193,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2004,28.131687885341357,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2004,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2005,1.925928,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2005,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2005,13.635036932366964,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2005,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2005,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2005,26.516692760815065,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2005,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2005,6.983534255010792,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2005,12.88052106877997,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2005,9.262220749035768,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2005,28.48786414991859,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2005,7.39723171527,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2005,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2005,15.459759,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2005,9.577305,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2005,32.03610246848937,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2005,29.95195571840681,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2005,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2006,1.6170907020486114,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2006,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2006,16.284116305694205,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2006,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2006,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2006,24.333343114626228,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2006,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2006,14.716370551039766,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2006,18.416241155905837,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2006,11.597682980132099,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2006,33.465054532599986,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2006,7.893972646067407,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2006,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2006,19.135191410896343,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2006,10.01410423465854,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2006,30.57202559319149,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2006,28.73727213624737,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2006,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2007,1.2371892412569445,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2007,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2007,18.058316401096874,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2007,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2007,0.160242876,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2007,24.33499330112704,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2007,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2007,13.981555161153848,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2007,22.58519095844593,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2007,12.573599256820987,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2007,39.6496798042235,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2007,8.333973027694215,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2007,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2007,20.896901064786586,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2007,9.587552985853659,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2007,28.7624829012766,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2007,30.821903591249995,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2007,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2008,1.0113734170763888,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2008,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2008,18.241412522495576,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2008,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2008,2.1377056186939782,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2008,21.90449555046632,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2008,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2008,14.025214881317815,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2008,22.705356758090605,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2008,11.289296915623332,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2008,41.058072681607044,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2008,8.327170942793934,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2008,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2008,20.887568174847562,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2008,9.439614814634147,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2008,27.815687944255323,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2008,30.410562700625,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2008,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2009,0.8179159974439705,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2009,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2009,19.469738567066685,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2009,6.83562616772152,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2009,3.1205923819946024,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2009,21.380853236843116,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2009,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2009,13.097022138740156,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2009,16.056969599756936,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2009,11.844032375141976,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2009,51.75422126156588,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2009,7.811638457151207,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2009,0.43313591308636357,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2009,25.133557207558475,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2009,9.028939085951219,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2009,26.889181213234046,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2009,30.40213840775,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2009,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2010,1.4501659889615581,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2010,1.8911285244987783,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2010,19.55294375437904,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2010,13.479919268196971,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2010,4.619262529500815,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2010,19.456352649685947,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2010,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2010,9.96698374264406,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2010,24.053331308903182,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2010,11.734360738105384,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2010,77.82501180106242,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2010,8.747351497220842,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2010,5.477478973778068,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2010,25.836315151758864,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2010,9.038660377817074,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2010,32.447978375701574,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2010,30.99733473706739,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2010,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2011,1.7506114789032579,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2011,5.1876558835104305,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2011,18.208149377679277,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2011,14.31216719827283,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2011,4.378486199617225,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2011,16.708627633265465,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2011,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2011,9.004143070947922,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2011,25.68578303533634,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2011,10.972629455793914,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2011,100.71023128684195,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2011,8.257700986948095,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2011,8.796826835882086,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2011,26.016874482235796,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2011,9.606895941725051,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2011,28.74139187174748,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2011,33.16567191252449,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2011,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2012,0.7757271725589632,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2012,5.09625076952471,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2012,18.300464565361754,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2012,14.251987748830203,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2012,4.555707729007381,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2012,14.914252680503498,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2012,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2012,6.863214066810991,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2012,27.905183542898214,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2012,11.145697424157456,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2012,104.01007913563456,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2012,8.066307373946572,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2012,7.077401604073397,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2012,28.293231647626072,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2012,9.15152296386726,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2012,24.44051781122831,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2012,31.367002524073403,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2012,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2013,0.1528749596923011,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2013,5.696457858504228,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2013,18.39162916057619,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2013,14.545953926736654,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2013,3.8257660526379045,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2013,14.968740953744957,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2013,0.4143346656275342,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2013,3.8820694151138397,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2013,22.482797922679165,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2013,11.538677999356791,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2013,105.82038552002278,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2013,7.9457448980641034,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2013,9.917063555972506,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2013,30.51986068642768,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2013,9.512595448744824,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2013,23.051189631642508,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2013,33.613715349036966,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2013,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2014,0.42521961564462596,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2014,5.6955928601972,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2014,17.557116648102504,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2014,13.610351630491383,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2014,4.631505659976488,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2014,17.43345725101865,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2014,0.44015372658080776,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2014,0.44905956746179176,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2014,26.13782233580052,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2014,10.611383882706267,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2014,103.60700252007207,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2014,8.574422412034197,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2014,9.38047127648419,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2014,32.03351274647316,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2014,8.63404124044179,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2014,21.71601082863306,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2014,33.98249415834181,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2014,5.009615340011202,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2015,0.694857614087504,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2015,5.01358496169199,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2015,16.351086208874143,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2015,14.619893721969936,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2015,5.60441692896412,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2015,16.565194854575118,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2015,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2015,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2015,26.892285174562236,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2015,10.239494231294827,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2015,105.61902241235845,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2015,7.638987847895426,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2015,1.948376176768507,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2015,39.914231985469215,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2015,8.731954299508457,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2015,21.649807568269498,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2015,34.25392571509554,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2015,10.107543236968084,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2016,4.021034925703613,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2016,5.52512976217468,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2016,14.316296297988298,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2016,14.61596810806962,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2016,6.084140577059048,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2016,15.69258980312734,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2016,0.943095142385916,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2016,0.7562905839173664,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2016,24.569114045354706,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2016,10.981940492667261,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2016,107.30228151670988,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2016,7.683783662414442,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2016,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2016,60.38569400720025,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2016,8.644472282414045,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2016,22.38720173592708,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2016,33.587348786755,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2016,10.866853455627579,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2017,17.186402536174068,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2017,5.572566632741848,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2017,13.42297153314254,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2017,15.444818807927215,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2017,5.438619453513041,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2017,16.491820651936706,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2017,5.008217376029425,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2017,1.187334805450035,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2017,28.192145729815614,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2017,11.401086836434523,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2017,104.02611868947434,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2017,7.288759584145428,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2017,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2017,76.55063484193502,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2017,9.124740437758438,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2017,21.706826653972513,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2017,36.067601562342865,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2017,11.139407828890755,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+usa,1996,776,2018,28.42767577848116,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Peru,1866,722,2018,4.764561878487603,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Trinidad & Tobago,2183,767,2018,16.77421078138142,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Russia,1895,736,2018,24.936936064439493,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Norway,1858,715,2018,6.640406362551903,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Algeria,1618,619,2018,13.546209194511217,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Angola,1454,563,2018,5.163268398453219,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Egypt,1620,621,2018,2.024512414612442,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Nigeria,1851,711,2018,27.830588810023315,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Oman,1863,719,2018,13.566836987263594,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Qatar,1890,733,2018,104.84709595760215,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+United Arab Emirates,1465,568,2018,7.4122882022007754,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Yemen,2048,787,2018,0,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Australia,1482,573,2018,91.81972117509069,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Brunei,1530,591,2018,8.760874452604336,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Indonesia,1711,656,2018,20.808211186143005,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Malaysia,1844,706,2018,32.998358199080094,billion_cubic_metres,gas_lng_exports,Gas - LNG exports
+Papua New Guinea,1870,725,2018,9.508707020672087,billion_cubic_metres,gas_lng_exports,Gas - LNG exports

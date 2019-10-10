@@ -1,0 +1,1032 @@
+country_name,id,owid_country,year,value,unit,category,sheet
+Canada,1540,595,1996,3,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,1996,10,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,1996,13.9,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,1996,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,1996,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,1996,0,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,1996,1.7,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,1996,0,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,1996,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,1996,0,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,1996,0,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,1996,0,megawatts,solar_capacity,Solar Capacity
+France,1640,630,1996,4,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,1996,28,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,1996,0,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,1996,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,1996,16,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,1996,0.7,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,1996,4.9,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,1996,0.4,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,1996,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,1996,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,1996,1,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,1996,2,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,1996,8,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,1996,0,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,1996,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,1996,0.2,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,1996,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,1996,0,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,1996,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,1996,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,1996,0,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,1996,0,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,1996,16,megawatts,solar_capacity,Solar Capacity
+China,1549,599,1996,1,megawatts,solar_capacity,Solar Capacity
+India,1713,657,1996,0,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,1996,60,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,1996,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,1996,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,1996,0,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,1996,0,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,1996,0,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,1996,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,1997,3,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,1997,11,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,1997,14.6,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,1997,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,1997,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,1997,0,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,1997,2.2,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,1997,0,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,1997,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,1997,0,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,1997,0,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,1997,0,megawatts,solar_capacity,Solar Capacity
+France,1640,630,1997,6,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,1997,42,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,1997,0,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,1997,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,1997,17,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,1997,1,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,1997,5.2,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,1997,0.5,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,1997,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,1997,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,1997,1,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,1997,2,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,1997,10,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,1997,0,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,1997,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,1997,0.4,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,1997,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,1997,0.3,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,1997,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,1997,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,1997,0,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,1997,2,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,1997,19,megawatts,solar_capacity,Solar Capacity
+China,1549,599,1997,2.5,megawatts,solar_capacity,Solar Capacity
+India,1713,657,1997,0,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,1997,91,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,1997,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,1997,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,1997,0,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,1997,0,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,1997,0,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,1997,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,1998,5,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,1998,12,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,1998,15.2,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,1998,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,1998,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,1998,0,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,1998,2.9,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,1998,0,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,1998,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,1998,0,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,1998,0,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,1998,0,megawatts,solar_capacity,Solar Capacity
+France,1640,630,1998,8,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,1998,54,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,1998,0,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,1998,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,1998,18,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,1998,1,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,1998,5.4,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,1998,0.6,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,1998,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,1998,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,1998,1,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,1998,2,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,1998,12,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,1998,0,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,1998,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,1998,0.5,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,1998,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,1998,0.3,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,1998,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,1998,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,1998,0,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,1998,4,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,1998,23,megawatts,solar_capacity,Solar Capacity
+China,1549,599,1998,5,megawatts,solar_capacity,Solar Capacity
+India,1713,657,1998,0,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,1998,133,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,1998,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,1998,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,1998,0,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,1998,0,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,1998,0,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,1998,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,1999,6,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,1999,13,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,1999,16.6,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,1999,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,1999,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,1999,1,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,1999,3.7,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,1999,0,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,1999,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,1999,0,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,1999,0,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,1999,0,megawatts,solar_capacity,Solar Capacity
+France,1640,630,1999,9,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,1999,70,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,1999,0,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,1999,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,1999,18,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,1999,5,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,1999,6,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,1999,0.9,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,1999,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,1999,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,1999,2,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,1999,3,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,1999,13,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,1999,0,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,1999,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,1999,0.9,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,1999,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,1999,0.4,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,1999,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,1999,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,1999,0,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,1999,6,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,1999,25,megawatts,solar_capacity,Solar Capacity
+China,1549,599,1999,10,megawatts,solar_capacity,Solar Capacity
+India,1713,657,1999,0,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,1999,209,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,1999,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,1999,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,1999,0,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,1999,0,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,1999,0,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,1999,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2000,7,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2000,14,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2000,18.5,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2000,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2000,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2000,1.6,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2000,5,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2000,0,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2000,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2000,0.1,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2000,1,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2000,2,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2000,7,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2000,114,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2000,0,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2000,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2000,19,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2000,13,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2000,6,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2000,1,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2000,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2000,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2000,10,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2000,3,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2000,16,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2000,0.1,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2000,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2000,2,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2000,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2000,0,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2000,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2000,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2000,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2000,0.1,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2000,7.8,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2000,29,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2000,33.5,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2000,0,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2000,330,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2000,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2000,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2000,0,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2000,4,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2000,0.1,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2000,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2001,9,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2001,15,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2001,21.9,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2001,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2001,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2001,1.8,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2001,7,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2001,0,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2001,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2001,0.1,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2001,1,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2001,3,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2001,7,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2001,195,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2001,1,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2001,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2001,20,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2001,21,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2001,6,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2001,1,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2001,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2001,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2001,13,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2001,3,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2001,18,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2001,0.3,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2001,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2001,3,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2001,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2001,0,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2001,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2001,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2001,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2001,0.5,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2001,9.1,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2001,34,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2001,38,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2001,1.1,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2001,453,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2001,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2001,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2001,0,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2001,5,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2001,0.2,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2001,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2002,10,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2002,16,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2002,28,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2002,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2002,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2002,2,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2002,9,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2002,1,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2002,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2002,0.2,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2002,2,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2002,3,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2002,8,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2002,260,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2002,1,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2002,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2002,22,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2002,26,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2002,6,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2002,1,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2002,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2002,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2002,17,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2002,3,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2002,20,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2002,0.6,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2002,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2002,4,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2002,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2002,0,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2002,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2002,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2002,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2002,0.6,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2002,10.4,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2002,39,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2002,56.5,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2002,5.5,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2002,637,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2002,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2002,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2002,0,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2002,5,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2002,0.3,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2002,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2003,12,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2003,16,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2003,73,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2003,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2003,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2003,2.1,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2003,23,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2003,1,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2003,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2003,0.3,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2003,2,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2003,3,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2003,9,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2003,435,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2003,1,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2003,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2003,26,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2003,46,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2003,7,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2003,2,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2003,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2003,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2003,22,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2003,4,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2003,22,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2003,1,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2003,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2003,6,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2003,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2003,0,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2003,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2003,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2003,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2003,0.6,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2003,11.7,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2003,46,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2003,66.6,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2003,6.7,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2003,860,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2003,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2003,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2003,0,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2003,6,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2003,0.5,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2003,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2004,14,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2004,16,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2004,111,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2004,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2004,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2004,2.4,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2004,27,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2004,1,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2004,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2004,0.4,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2004,2,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2004,4,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2004,11,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2004,1105,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2004,1,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2004,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2004,31,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2004,50,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2004,7,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2004,2,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2004,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2004,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2004,33,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2004,4,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2004,24,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2004,1.5,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2004,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2004,8,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2004,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2004,0,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2004,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2004,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2004,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2004,0.6,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2004,13,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2004,52,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2004,76.6,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2004,7.9,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2004,1132,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2004,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2004,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2004,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2004,9,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2004,0.6,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2004,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2005,17,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2005,16,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2005,190,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2005,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2005,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2005,2.7,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2005,21,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2005,2,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2005,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2005,1,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2005,3,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2005,4,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2005,13,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2005,2056,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2005,1,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2005,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2005,34,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2005,51,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2005,7,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2005,2,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2005,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2005,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2005,52,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2005,4,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2005,28,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2005,2,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2005,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2005,11,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2005,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2005,1,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2005,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2005,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2005,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2005,0.6,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2005,14.3,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2005,61,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2005,141.2,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2005,7.8,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2005,1422,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2005,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2005,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2005,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2005,14,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2005,1,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2005,0,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2006,21,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2006,16,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2006,295,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2006,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2006,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2006,2.9,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2006,22.4,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2006,2,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2006,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2006,1,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2006,3,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2006,5,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2006,15,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2006,2899,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2006,5,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2006,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2006,45,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2006,53,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2006,8,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2006,3,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2006,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2006,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2006,141,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2006,5,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2006,30,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2006,2.5,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2006,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2006,14,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2006,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2006,1.3,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2006,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2006,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2006,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2006,0.6,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2006,15.6,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2006,70,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2006,160.2,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2006,11.6,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2006,1708,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2006,0,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2006,0,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2006,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2006,36,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2006,1.4,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2006,30.4,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2007,26,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2007,19,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2007,455,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2007,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2007,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2007,3.2,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2007,24.2,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2007,20,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2007,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2007,4,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2007,3,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2007,5,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2007,26,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2007,4170,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2007,9,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2007,0,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2007,110,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2007,54,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2007,8,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2007,24,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2007,0,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2007,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2007,505,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2007,6,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2007,37,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2007,3,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2007,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2007,18,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2007,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2007,1.8,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2007,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2007,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2007,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2007,0.7,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2007,16.9,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2007,82,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2007,199,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2007,9.6,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2007,1919,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2007,0.5,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2007,0.1,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2007,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2007,81,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2007,2.4,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2007,32.3,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2008,33,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2008,19,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2008,753,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2008,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2008,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2008,3.2,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2008,30.1,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2008,62,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2008,0,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2008,40,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2008,3,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2008,6,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2008,80,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2008,6120,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2008,12,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2008,1,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2008,483,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2008,59,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2008,8.3,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2008,59,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2008,0.1,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2008,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2008,3445,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2008,8,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2008,49,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2008,3.7,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2008,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2008,23,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2008,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2008,9,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2008,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2008,0,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2008,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2008,0.9,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2008,18.2,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2008,105,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2008,253,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2008,25.1,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2008,2144,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2008,0.5,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2008,1.1,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2008,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2008,357,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2008,5.6,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2008,32.4,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2009,95,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2009,25,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2009,1188,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2009,0,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2009,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2009,3.5,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2009,48.9,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2009,386,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2009,2,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2009,465,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2009,5,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2009,6,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2009,277,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2009,10567,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2009,46,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2009,1,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2009,1264,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2009,69,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2009,8.7,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2009,115,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2009,0.1,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2009,0,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2009,3705,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2009,9,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2009,79,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2009,4.7,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2009,0,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2009,27,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2009,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2009,30.6,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2009,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2009,10,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2009,0,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2009,1.3,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2009,19.6,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2009,188,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2009,414.8,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2009,27.7,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2009,2627,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2009,0.5,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2009,3.7,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2009,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2009,524,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2009,9.5,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2009,37,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2010,221,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2010,29,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2010,2040,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2010,1,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2010,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2010,3.7,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2010,88.8,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2010,1006.9,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2010,25,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2010,1727,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2010,7,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2010,7,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2010,1044,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2010,18007,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2010,202,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2010,2,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2010,3596.7,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2010,90,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2010,9.1,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2010,134,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2010,0.1,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2010,19,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2010,4605,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2010,11,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2010,125,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2010,5.7,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2010,2.5,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2010,95,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2010,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2010,76,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2010,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2010,10.8,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2010,25,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2010,15,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2010,23.2,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2010,571,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2010,1024.5,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2010,39.4,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2010,3618,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2010,0.5,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2010,9.3,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2010,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2010,650,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2010,22,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2010,48.6,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2011,497,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2011,39,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2011,3382,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2011,1,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2011,0,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2011,4.5,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2011,174.1,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2011,1979.1,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2011,154,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2011,1913,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2011,17,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2011,7,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2011,3003.6,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2011,25917,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2011,612,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2011,4,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2011,13135.7,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2011,149,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2011,9.5,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2011,172,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2011,1,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2011,496,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2011,5432,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2011,12,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2011,223,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2011,6.7,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2011,188.2,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2011,1000,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2011,0,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2011,195.8,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2011,0,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2011,12.6,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2011,25,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2011,35,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2011,67.4,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2011,1397,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2011,3113,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2011,65.4,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2011,4914,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2011,0.5,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2011,18.6,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2011,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2011,730.2,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2011,117.9,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2011,78.7,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2012,766,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2012,60,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2012,7328,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2012,2,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2012,2,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2012,5.2,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2012,337.5,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2012,2646.5,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2012,1013,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2012,2022,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2012,402,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2012,8,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2012,4358.8,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2012,34077,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2012,1536,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2012,12,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2012,16789.7,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2012,369,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2012,10,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2012,238,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2012,41,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2012,513,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2012,6569,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2012,24,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2012,437,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2012,11.7,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2012,371.6,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2012,1753,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2012,0.1,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2012,242.8,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2012,0.1,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2012,14.4,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2012,25,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2012,35,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2012,72.2,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2012,2435,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2012,6725.5,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2012,565.8,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2012,6632,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2012,25.1,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2012,45.7,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2012,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2012,1024.2,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2012,222.5,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2012,381.7,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2013,1210,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2013,82,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2013,13045,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2013,5,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2013,15,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2013,5.2,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2013,626,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2013,2902.4,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2013,1020,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2013,2064,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2013,571,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2013,9,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2013,5277.3,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2013,36711,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2013,2579,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2013,35,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2013,18190.1,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2013,746,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2013,11,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2013,296,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2013,761,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2013,533,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2013,6994,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2013,43,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2013,756,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2013,18.7,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2013,748.4,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2013,2937,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2013,1.3,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2013,426.1,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2013,0.1,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2013,130,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2013,25,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2013,35,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2013,261.6,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2013,3258,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2013,17761.7,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2013,926,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2013,13599,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2013,97.1,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2013,100.5,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2013,1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2013,1555.2,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2013,392,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2013,828.5,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2014,1843,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2014,116,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2014,16545,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2014,15,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2014,221,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2014,5.2,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2014,785.2,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2014,3014.8,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2014,1026,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2014,2068,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2014,607,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2014,11,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2014,6034.4,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2014,37900,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2014,2596,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2014,89,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2014,18600.1,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2014,1048,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2014,13,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2014,415,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2014,1293,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2014,533,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2014,7001,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2014,60,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2014,1061,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2014,41,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2014,819.1,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2014,5528,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2014,6.6,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2014,676.1,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2014,0.2,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2014,134.3,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2014,26.1,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2014,35,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2014,1162.9,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2014,4007,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2014,28401.7,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2014,1336.1,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2014,23339,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2014,165.8,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2014,165.2,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2014,23,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2014,2481.2,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2014,620.2,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2014,1303.5,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2015,2517,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2015,173,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2015,23442,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2015,22.9,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2015,576,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2015,393.2,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2015,937.1,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2015,3131,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2015,1029,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2015,2075,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2015,782.1,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2015,15,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2015,7137.5,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2015,39245,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2015,2604,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2015,172,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2015,18907.1,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2015,1515,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2015,15,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2015,447,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2015,1326,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2015,533,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2015,7008,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2015,104,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2015,1394,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2015,250,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2015,841.2,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2015,9601,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2015,61.7,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2015,771.9,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2015,28.9,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2015,134.7,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2015,74.1,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2015,45,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2015,1351.7,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2015,4360,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2015,43551.7,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2015,3518.3,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2015,34150,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2015,229.1,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2015,230,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2015,165.3,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2015,3613.2,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2015,842.2,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2015,1424.6,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2016,2661,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2016,388.6,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2016,34858,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2016,80,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2016,1125,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2016,414.2,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2016,1096,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2016,3325.4,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2016,1028,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2016,2068,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2016,851,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2016,35,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2016,7702.1,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2016,40716,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2016,2604,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2016,235,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2016,19289.1,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2016,2049,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2016,26.7,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2016,512.8,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2016,1372,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2016,533,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2016,7020,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2016,153,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2016,1664,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2016,834,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2016,954.7,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2016,11912,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2016,76.7,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2016,872.1,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2016,295.6,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2016,142,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2016,244.1,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2016,68,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2016,2174,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2016,4721,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2016,77801.7,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2016,5396.4,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2016,42040,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2016,278.8,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2016,410.5,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2016,758.6,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2016,4502.2,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2016,1245,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2016,2451.1,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2017,2873,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2017,673.7,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2017,43031,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2017,1097,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2017,1809,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2017,451.1,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2017,1269,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2017,3609.6,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2017,1035.6,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2017,2069.5,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2017,906.4,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2017,74,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2017,8610.4,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2017,42339,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2017,2605.5,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2017,344,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2017,19688.4,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2017,2903,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2017,44.9,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2017,579.2,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2017,1374.2,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2017,528,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2017,7029,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2017,291,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2017,1906,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2017,3421.7,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2017,1200,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2017,12776,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2017,235.7,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2017,975.1,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2017,396,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2017,354.8,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2017,425,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2017,189,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2017,2486.4,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2017,5993.4,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2017,130816.2,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2017,9646.7,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2017,49040,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2017,317.4,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2017,741.7,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2017,886.1,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2017,5834.7,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2017,1767.7,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2017,2702.3,megawatts,solar_capacity,Solar Capacity
+Canada,1540,595,2018,3113,megawatts,solar_capacity,Solar Capacity
+Mexico,1818,692,2018,2555,megawatts,solar_capacity,Solar Capacity
+usa,1996,776,2018,51450,megawatts,solar_capacity,Solar Capacity
+Brazil,1527,589,2018,2296,megawatts,solar_capacity,Solar Capacity
+Chile,1548,598,2018,2137,megawatts,solar_capacity,Solar Capacity
+Honduras,1706,652,2018,516,megawatts,solar_capacity,Solar Capacity
+Austria,1484,574,2018,1431,megawatts,solar_capacity,Solar Capacity
+Belgium,1487,577,2018,4025.6,megawatts,solar_capacity,Solar Capacity
+Bulgaria,1500,581,2018,1035.6,megawatts,solar_capacity,Solar Capacity
+Czech Republic,1604,613,2018,2077.5,megawatts,solar_capacity,Solar Capacity
+Denmark,1614,617,2018,998,megawatts,solar_capacity,Solar Capacity
+Finland,1631,627,2018,124.7,megawatts,solar_capacity,Solar Capacity
+France,1640,630,2018,9483.4,megawatts,solar_capacity,Solar Capacity
+Germany,1608,614,2018,45932,megawatts,solar_capacity,Solar Capacity
+Greece,1681,644,2018,2651.5,megawatts,solar_capacity,Solar Capacity
+Hungary,1710,655,2018,665,megawatts,solar_capacity,Solar Capacity
+Italy,1727,663,2018,20126.1,megawatts,solar_capacity,Solar Capacity
+Netherlands,1855,714,2018,4150,megawatts,solar_capacity,Solar Capacity
+Norway,1858,715,2018,68.4,megawatts,solar_capacity,Solar Capacity
+Portugal,1880,729,2018,670.2,megawatts,solar_capacity,Solar Capacity
+Romania,1893,735,2018,1377.2,megawatts,solar_capacity,Solar Capacity
+Slovakia,1937,753,2018,531,megawatts,solar_capacity,Solar Capacity
+Spain,1628,624,2018,7047.7,megawatts,solar_capacity,Solar Capacity
+Sweden,1940,755,2018,421,megawatts,solar_capacity,Solar Capacity
+Switzerland,1546,597,2018,2246,megawatts,solar_capacity,Solar Capacity
+Turkey,1975,769,2018,5063.9,megawatts,solar_capacity,Solar Capacity
+Ukraine,1993,774,2018,2002.7,megawatts,solar_capacity,Solar Capacity
+United Kingdom,1654,635,2018,13108,megawatts,solar_capacity,Solar Capacity
+Russian Federation,1896,736,2018,545.7,megawatts,solar_capacity,Solar Capacity
+Israel,1726,662,2018,1076.1,megawatts,solar_capacity,Solar Capacity
+Jordan,1730,665,2018,771.5,megawatts,solar_capacity,Solar Capacity
+United Arab Emirates,1465,568,2018,593.7,megawatts,solar_capacity,Solar Capacity
+Algeria,1618,619,2018,435,megawatts,solar_capacity,Solar Capacity
+Egypt,1620,621,2018,770,megawatts,solar_capacity,Solar Capacity
+South Africa,2052,788,2018,2958.8,megawatts,solar_capacity,Solar Capacity
+Australia,1482,573,2018,9768.7,megawatts,solar_capacity,Solar Capacity
+China,1549,599,2018,175031.7,megawatts,solar_capacity,Solar Capacity
+India,1713,657,2018,17872.8,megawatts,solar_capacity,Solar Capacity
+Japan,1732,666,2018,55500,megawatts,solar_capacity,Solar Capacity
+Malaysia,1844,706,2018,437.8,megawatts,solar_capacity,Solar Capacity
+Pakistan,1864,720,2018,1568.1,megawatts,solar_capacity,Solar Capacity
+Philippines,1867,723,2018,886.4,megawatts,solar_capacity,Solar Capacity
+South Korea,1758,673,2018,7861.9,megawatts,solar_capacity,Solar Capacity
+Taiwan,1979,771,2018,2617.7,megawatts,solar_capacity,Solar Capacity
+Thailand,1953,762,2018,2725.2,megawatts,solar_capacity,Solar Capacity

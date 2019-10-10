@@ -1,0 +1,1021 @@
+country_name,id,owid_country,year,value,unit,category,sheet
+Canada,1540,595,1985,6.777,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1985,55.06230701945224,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1985,107.7443795698925,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1985,5.706,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1985,3.9141619962503382,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1985,9.595,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1985,76.174,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1985,3.258,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1985,1.68,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1985,7.747,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1985,7.082,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1985,47.115622499033186,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1985,48.307,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1985,8.298834148568357,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1985,113.33705410224914,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1985,19.191362648408724,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1985,21.90145565263607,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1985,0.445,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1985,11.869,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1985,0.042,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1985,4.667,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1985,56.685,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1985,11.868,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1985,6.575808787901353,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1985,183.86023293395294,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1985,9.017,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1985,19.964,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1985,5.240305,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1985,3.3519122,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1985,1.216,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1986,6.166,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1986,60.88913174330298,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1986,146.86544838709688,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1986,7.894,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1986,10.18773646186221,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1986,13.643,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1986,77.483,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1986,3.456,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1986,1.622,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1986,6.187,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1986,7.0006,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1986,49.68800730983376,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1986,31.235,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1986,8.763649638498743,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1986,117.99506828570772,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1986,19.27768349289534,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1986,24.844583472195865,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1986,0.477,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1986,13.2,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1986,0.042,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1986,3.771,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1986,53.678,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1986,11.504,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1986,6.748774128481196,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1986,180.84310912671341,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1986,9.187,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1986,13.895,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1986,7.4875929999999995,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1986,3.3451200000000023,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1986,1.397,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1987,10.061,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1987,66.19074772190137,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1987,127.41136666666677,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1987,10.078,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1987,7.782793029989198,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1987,13.811,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1987,89.941,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1987,3.659,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1987,1.698,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1987,6.436,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1987,5.4956000000000005,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1987,50.173792916698204,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1987,26.268,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1987,9.030537931638609,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1987,122.54533846123866,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1987,23.6326643702148,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1987,31.929883820919585,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1987,0.507,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1987,14.969,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1987,0.042,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1987,2.799,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1987,54.644,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1987,12.351,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1987,7.801118420253951,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1987,191.7930235403926,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1987,9.172,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1987,5.087,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1987,6.26799,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1987,2.1907900000000056,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1987,1.536,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1988,11.842,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1988,69.39771978524972,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1988,160.10705483870973,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1988,8.635,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1988,7.192404674420053,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1988,11.794,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1988,89.702,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1988,3.796,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1988,1.626,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1988,6.937,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1988,3.3047,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1988,48.3131470035681,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1988,28.393,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1988,8.88513267625511,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1988,124.10807582475881,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1988,18.619976327697618,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1988,35.51444767499482,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1988,0.552,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1988,16.728,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1988,0.051,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1988,2.444,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1988,60.336,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1988,12.333,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1988,9.55896979833257,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1988,213.04885930616308,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1988,9.39,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1988,11.523,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1988,15.660161,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1988,3.1455000000000033,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1988,1.49,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1989,18.174,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1989,71.97217129685015,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1989,176.7295913978495,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1989,7.204,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1989,6.15214560874931,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1989,10.437,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1989,101.785,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1989,3.307,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1989,1.691,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1989,9.138,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1989,4.2475,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1989,49.53364410546636,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1989,29.442,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1989,8.976556993461061,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1989,125.82886752191511,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1989,18.274426909852302,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1989,36.89579593344862,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1989,0.578,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1989,17.4125,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1989,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1989,3.024,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1989,57.632,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1989,12.805,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1989,10.735502795854877,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1989,231.7963105417053,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1989,10.012,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1989,14.64,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1989,23.411728,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1989,4.755279999999996,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1989,1.182,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1990,16.468,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1990,64.03832052623065,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1990,135.97871182795686,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1990,4.944,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1990,5.069899680026765,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1990,10.8,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1990,102.719,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1990,3.064,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1990,1.57,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1990,8.604,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1990,3.9417000000000004,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1990,48.011,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1990,34.676,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1990,8.731,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1990,128.49379329835472,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1990,19.886968789580976,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1990,39.15190352460071,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1990,0.633,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1990,15.5535,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1990,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1990,3.474,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1990,50.366,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1990,13.312,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1990,12.324080000000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1990,287.53785595408164,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1990,10.555,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1990,18.856,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1990,23.410018,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1990,10.369480999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1990,1.305,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1991,14.135,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1991,67.69311301283935,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1991,128.7651322580644,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1991,7.619,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1991,5.245925138056619,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1991,14.8,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1991,104.287,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1991,3.304,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1991,1.528,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1991,10.156,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1991,3.2931999999999997,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1991,38.528,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1991,28.116,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1991,7.498982166810518,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1991,123.9734326850642,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1991,22.111043387994176,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1991,42.24003603515675,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1991,0.643,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1991,12.9535,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1991,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1991,2.879,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1991,51.923,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1991,13.444,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1991,14.243829999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1991,275.44655743254805,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1991,10.945,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1991,27.182,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1991,26.340497,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1991,12.748967000000004,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1991,1.492,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1992,15.594,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1992,66.84700069239351,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1992,107.69264838709658,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1992,7.661,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1992,6.333113625043216,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1992,13.2,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1992,116.02,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1992,3.155,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1992,1.457,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1992,14.329,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1992,5.273,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1992,22.618,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1992,29.809,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1992,7.300349891738644,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1992,100.05208157557769,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1992,20.731696878953336,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1992,49.57638088160985,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1992,0.692,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1992,12.2425,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1992,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1992,2.3915,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1992,53.21,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1992,14.811,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1992,14.94006,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1992,282.14148655026133,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1992,9.642,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1992,35.311,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1992,22.555170999999998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1992,15.090259000000003,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1992,1.62,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1993,12.008,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1993,65.92453189424891,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1993,121.27761290322586,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1993,6.693,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1993,6.215603472274298,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1993,10.1,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1993,113.919,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1993,3.026,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1993,1.572,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1993,9.544,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1993,5.1745,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1993,16.936,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1993,21.143,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1993,6.734976480799255,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1993,82.88559580699697,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1993,23.773345838713272,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1993,54.793015613263115,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1993,0.806,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1993,10.472,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1993,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1993,2.3705,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1993,65.454,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1993,14.208,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1993,14.72373,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1993,238.79598883797644,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1993,9.499,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1993,34.888,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1993,26.278803,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1993,18.238485999999995,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1993,2.046,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1994,10.068,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1994,79.72029009468885,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1994,113.87202473118288,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1994,4.557,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1994,6.44245004874996,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1994,10.1,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1994,116.312,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1994,3.331,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1994,1.686,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1994,10.509,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1994,5.5488,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1994,10.399,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1994,14.837,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1994,4.76835475426614,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1994,73.27043955868723,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1994,26.76460502476001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1994,55.567935297107574,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1994,0.88,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1994,8.5305,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1994,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1994,2.529,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1994,48.199,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1994,15.747,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1994,11.20074,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1994,281.11687388874896,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1994,8.466,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1994,40.363,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1994,26.637010999999998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1994,21.032358460000005,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1994,1.97,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1995,6.303440860215054,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1995,70.00650791825343,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1995,80.16566129032239,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1995,4.585,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1995,7.58148150202466,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1995,9.1,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1995,120.8,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1995,2.814,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1995,1.523,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1995,14.623,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1995,5.772,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1995,10.391,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1995,17.297,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1995,4.860275052837306,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1995,67.79186578291304,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1995,29.3393611645146,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1995,60.11966246286024,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1995,0.776,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1995,9.01,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1995,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1995,2.7715,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1995,55.094,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1995,16.826,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1995,8.579210000000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1995,248.67469943559016,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1995,8.974,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1995,42.045,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1995,32.030313,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1995,23.973075050000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1995,1.295,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1996,7.422365591397849,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1996,71.47585419180815,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1996,87.53895161290332,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1996,4.624,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1996,9.328144558238638,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1996,8.162,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1996,117.088,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1996,2.824,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1996,1.772,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1996,13.92,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1996,6.539599999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1996,4.947,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1996,17.185,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1996,4.2459191707815185,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1996,56.507878685407405,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1996,31.739650608933445,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1996,62.648478266426146,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1996,0.895,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1996,10.5725,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1996,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1996,2.49,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1996,50.351,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1996,19.848,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1996,9.171869999999998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1996,237.25818506101027,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1996,10.125,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1996,42.436,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1996,28.030879000000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1996,25.556090950000012,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1996,1.463,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1997,12.024731182795698,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1997,82.51142890786687,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1997,99.52136881720439,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1997,2.042,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1997,9.969052958432375,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1997,7.4,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1997,113.312,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1997,2.823,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1997,1.901,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1997,14.103,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1997,7.157299999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1997,2.327,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1997,10.669,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1997,3.766793621520406,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1997,51.79229110882252,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1997,32.053633463546646,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1997,66.19376106639292,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1997,1.174,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1997,12.3335,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1997,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1997,1.998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1997,47.115,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1997,20.889,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1997,12.006309999999997,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1997,208.94280681043887,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1997,10.235,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1997,42.943,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1997,28.746788000000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1997,21.70631161300002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1997,2.177,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1998,16.85806451612903,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1998,92.33252289079786,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1998,138.49480967741923,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1998,3.81,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1998,11.209596132461703,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1998,6.7,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1998,107.305,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1998,3.013,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1998,1.902,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1998,17.499,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1998,7.9233,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1998,2.248,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1998,8.182540482523825,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1998,3.634466226160357,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1998,52.94331031238774,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1998,23.029913050132876,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1998,72.56708122655964,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1998,1.219,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1998,16.063,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1998,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1998,1.775,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1998,53.392,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1998,21.038,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1998,9.53041,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1998,192.4043513180573,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1998,9.816,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1998,17.712,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1998,29.975325312000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1998,18.52307071199998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1998,3.676,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,1999,14.819569892473119,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,1999,89.66314170422059,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,1999,126.94713763440873,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,1999,3.831,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,1999,16.636875,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,1999,6.3,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,1999,91.379,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,1999,2.781,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,1999,1.891,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,1999,24.445,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,1999,8.0795,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,1999,1.427,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,1999,6.5487897059158,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,1999,3.0123554843494653,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,1999,40.90207266028448,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,1999,27.342440015299594,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,1999,76.0977428674364,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,1999,1.258,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,1999,15.0515,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,1999,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,1999,1.7565,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,1999,50.261,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,1999,24.802,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,1999,9.81549,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,1999,193.2381165532271,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,1999,4.888,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,1999,18.527,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,1999,31.363047434,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,1999,15.886584000000035,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,1999,3.274,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2000,13.354193548387094,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2000,96.57959400171863,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2000,119.59243548387113,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2000,2.883,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2000,15.245239999999997,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2000,5.866,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2000,85.878,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2000,2.641,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2000,1.916,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2000,22.578,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2000,9.3108,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2000,1.187,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2000,6.523984416697386,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2000,2.6869495319891303,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2000,33.091,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2000,33.48725729558768,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2000,74.84496721056249,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2000,1.234,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2000,16.87194286536687,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2000,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2000,1.914,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2000,47.268,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2000,29.163,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2000,12.504,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2000,179.43207488968028,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2000,3.6,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2000,26.978040611328126,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2000,30.738006882999997,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2000,9.719371000000004,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2000,4.519,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2001,15.90537634408602,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2001,92.74216507520883,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2001,134.27980752688168,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2001,1.004,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2001,15.903812673956269,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2001,6.101,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2001,75.008,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2001,2.646,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2001,2.398,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2001,24.632,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2001,10.366200000000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2001,1.061,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2001,5.253166329004667,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2001,2.3313942368459903,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2001,30.019989619317336,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2001,33.47415444083547,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2001,69.43834736803316,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2001,1.208,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2001,17.64775978221416,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2001,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2001,2.245,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2001,48.517,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2001,26.791,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2001,13.165,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2001,150.989739550549,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2001,4.382,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2001,30.62126791572123,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2001,25.571088618999998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2001,2.6669487359999815,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2001,4.757,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2002,15.331290322580644,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2002,79.31532970303607,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2002,101.68537096774189,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2002,0.759,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2002,13.520092845605726,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2002,8.713,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2002,87.764,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2002,2.363,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2002,2.376,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2002,28.593,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2002,10.743799999999998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2002,0.81,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2002,4.7989949556177445,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2002,3.0703173402733963,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2002,27.415037403017667,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2002,31.626214065896278,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2002,68.39923914356771,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2002,1.295,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2002,14.577297616237903,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2002,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2002,2.0535,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2002,50.704,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2002,27.929,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2002,16.314,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2002,170.17085793706786,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2002,7.62,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2002,27.323093110603065,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2002,20.564585211,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2002,2.1206006750000053,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2002,4.386,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2003,19.139462365591395,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2003,70.80378806100757,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2003,128.39316451612896,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2003,1.011,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2003,10.835175,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2003,10.333,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2003,75.987,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2003,2.493,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2003,2.456,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2003,24.002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2003,9.196200000000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2003,0.65,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2003,4.594112124345547,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2003,2.5940386087652287,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2003,27.119130711739267,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2003,31.706260890047904,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2003,75.2246401819437,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2003,1.357,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2003,14.935810844525497,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2003,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2003,1.5248499999999998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2003,54.825,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2003,31.086,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2003,17.368,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2003,182.61670842285994,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2003,2.968,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2003,29.26016930547398,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2003,18.229894068,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2003,2.5061652740000007,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2003,2.658,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2004,19.023118279569893,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2004,73.93316469550625,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2004,130.26350215053776,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2004,4.039,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2004,12.33908335116279,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2004,10.7722,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2004,58.891,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2004,2.431,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2004,2.914,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2004,26.802,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2004,7.670299999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2004,0.57,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2004,4.6437795449292665,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2004,1.1809539516692704,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2004,23.918919256457716,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2004,35.688569933153836,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2004,74.66568824228897,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2004,1.224,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2004,13.455857227419024,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2004,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2004,2.11485,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2004,65.534,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2004,28.269,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2004,18.56,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2004,167.1737784065076,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2004,2.495,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2004,21.983248433206974,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2004,15.890034265,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2004,5.700917959999991,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2004,1.685,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2005,16.516774193548386,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2005,72.68556834978723,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2005,131.42474946236567,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2005,5.746,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2005,11.737517923448362,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2005,12.002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2005,47.124,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2005,2.262,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2005,2.757,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2005,29.414,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2005,5.4825,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2005,0.586,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2005,5.338157313058781,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2005,2.6341910002650395,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2005,21.25445262513165,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2005,37.40267014824913,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2005,83.12307298667109,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2005,1.296,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2005,13.974334087964445,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2005,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2005,2.9495,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2005,50.513,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2005,25.366,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2005,17.297,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2005,182.59453933147333,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2005,2.203,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2005,21.158807144460884,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2005,15.2574571,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2005,7.816933840999997,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2005,2.167,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2006,10.396881720430107,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2006,53.838523417826785,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2006,68.99614408602162,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2006,8.036,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2006,12.407793999999997,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2006,10.949,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2006,45.875,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2006,2.095,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2006,2.908,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2006,24.158,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2006,4.3404,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2006,0.695,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2006,6.173006517381215,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2006,6.574171903275995,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2006,24.23687220373619,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2006,49.11074013940838,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2006,91.76326971623166,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2006,1.357,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2006,15.330116654571526,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2006,0,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2006,2.9755,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2006,37.917,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2006,19.07686913964262,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2006,17.748,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2006,152.30667378557231,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2006,3.135,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2006,20.29381755662433,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2006,18.057661617999997,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2006,7.885357193000013,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2006,1.404,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2007,12.129247311827958,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2007,51.5414570024524,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2007,70.68707311827974,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2007,10.97,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2007,13.353704247643636,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2007,10.003,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2007,35.409,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2007,2.219,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2007,2.794,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2007,18.832,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2007,6.526800000000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2007,0.639,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2007,5.0482968689717485,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2007,7.153355606931474,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2007,17.31984791730171,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2007,45.70159543124554,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2007,101.72492566294201,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2007,1.418,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2007,15.774240940911003,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2007,1.153,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2007,3.4755,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2007,28.094,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2007,13.363389999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2007,18.2613,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2007,182.6729091865164,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2007,2.24,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2007,20.896626451424396,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2007,14.969594123,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2007,2.9948131660000232,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2007,2.656,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2008,9.945591397849462,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2008,52.876,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2008,49.72323870967743,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2008,14.37,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2008,17.67147866581743,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2008,9.676,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2008,31.459,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2008,2.065,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2008,2.726,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2008,18.309,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2008,7.5185,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2008,0.982,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2008,6.708771034305617,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2008,3.0808860975750334,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2008,16.095041855316726,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2008,67.39665546546681,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2008,106.89071599642116,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2008,1.471,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2008,17.883360639990975,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2008,0.143,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2008,3.723,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2008,18.809,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2008,15.266354999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2008,20.826,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2008,170.04617862021144,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2008,1.725,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2008,12.175576496009342,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2008,13.369306342,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2008,1.0133638999999786,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2008,1.569,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2009,9.962473118279568,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2009,48.777,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2009,41.86722043010752,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2009,14.276,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2009,14.65585,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2009,10.066,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2009,26.02,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2009,1.487,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2009,2.723,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2009,20.07482819964318,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2009,4.803526,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2009,1.694,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2009,5.994552762729592,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2009,0.8842341638234189,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2009,16.048168818936535,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2009,65.06631853854131,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2009,123.97722663080593,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2009,1.439,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2009,20.669411671564987,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2009,0.049,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2009,3.2474000000000003,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2009,12.124,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2009,13.08314,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2009,19.856,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2009,104.45609978352154,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2009,3.52,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2009,16.3708185786083,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2009,7.604333066000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2009,0.49329880399994597,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2009,1.785,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2010,6.896129032258063,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2010,43.76321232757996,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2010,39.850551612903246,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2010,16.663,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2010,16.11528612990921,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2010,8.74,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2010,21.714,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2010,1.253,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2010,2.892,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2010,17.136459705335927,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2010,2.18,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2010,0.822,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2010,4.805436501432261,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2010,0.6200039240190823,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2010,9.312085299990125,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2010,49.48420920824794,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2010,132.57340468935993,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2010,1.445,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2010,20.953066755662366,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2010,0.197,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2010,3.1003000000000003,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2010,14.856,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2010,10.779982500000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2010,19.080599999999997,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2010,101.16727868747526,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2010,3.67,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2010,15.37313032365506,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2010,9.46296694,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2010,0.5998976090000552,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2010,2.532,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2011,6.030322580645162,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2011,48.83265,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2011,32.45402688172042,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2011,18.992,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2011,14.579209283074416,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2011,7.156,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2011,19.885,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2011,1.406,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2011,2.453,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2011,15.171,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2011,0.9036000000000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2011,0.555,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2011,3.1189469939379224,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2011,0.5429933407417761,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2011,27.47237523169491,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2011,83.59950406888413,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2011,147.34652628884422,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2011,1.388,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2011,18.188246507560958,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2011,0.709,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2011,2.8981500000000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2011,12.13,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2011,9.3527675,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2011,22.887,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2011,160.87688838412575,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2011,9.45,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2011,15.917671356099975,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2011,8.255236326,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2011,1.33086913999988,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2011,0.7265284189843951,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2012,6.209247311827957,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2012,55.73320079504319,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2012,24.93499139784948,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2012,19.212,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2012,19.257910654936968,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2012,7.626,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2012,18.89,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2012,1.059,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2012,2.045,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2012,15.321,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2012,1.6386999999999998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2012,0.535,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2012,2.8912342340003656,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2012,0.74,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2012,28.101205281689754,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2012,81.19172285078557,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2012,154.9677782625841,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2012,1.415,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2012,21.351259653828343,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2012,1.904,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2012,3.5834,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2012,10.937,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2012,10.07066,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2012,21.638099999999998,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2012,205.5944510783413,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2012,6.014,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2012,19.080487673204384,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2012,6.363312968,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2012,1.3627191665000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2012,0.105,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2013,6.476021505376345,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2013,47.68046998556975,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2013,29.20907956989247,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2013,20.827,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2013,26.024981078289272,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2013,7.198,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2013,15.482,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2013,1.203,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2013,1.782,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2013,13.853901528604698,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2013,1.738826,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2013,0.39,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2013,2.0662533180368703,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2013,0.676,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2013,8.705777227469422,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2013,103.36656692138968,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2013,144.39321328064736,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2013,1.391,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2013,27.034533460917395,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2013,3.621,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2013,4.7383500000000005,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2013,10.013,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2013,10.65009381482104,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2013,20.7438,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2013,164.96002041529567,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2013,5.339,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2013,19.646096916575562,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2013,5.936012009,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2013,1.4175742220598626,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2013,0.7399826489656116,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2014,4.011075268817204,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2014,32.48865622436442,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2014,32.507378494623666,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2014,19.075,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2014,34.75052295118387,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2014,5.658,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2014,14.163,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2014,1.906,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2014,1.594,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2014,14.121,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2014,2.145289,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2014,0.216,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2014,1.9200519743410287,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2014,1.156,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2014,10.730216904726134,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2014,63.55803708417528,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2014,160.7280638436792,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2014,1.473,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2014,31.864341968930272,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2014,3.709,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2014,5.920424999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2014,9.517,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2014,11.345832415607768,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2014,23.0901,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2014,121.47859015077456,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2014,3.49,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2014,27.706156073521708,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2014,7.273658059000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2014,1.6690239029800196,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2014,0.6727114990596892,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2015,4.428279569892473,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2015,31.225818528527906,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2015,30.37499892473121,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2015,21.956,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2015,28.936273226668572,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2015,6.208011000000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2015,13.384,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2015,1.431,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2015,2.118,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2015,17.240999999999996,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2015,2.223939724,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2015,0.746,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2015,2.037106450916657,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2015,1.748,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2015,10.102107317272068,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2015,56.27918224454351,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2015,169.99612751807535,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2015,1.582,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2015,36.41591466489051,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2015,3.936,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2015,6.2420335,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2015,9.679,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2015,9.12157557078991,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2015,32.1438,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2015,103.55988996424854,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2015,1.739,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2015,35.094959484707275,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2015,11.169020075,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2015,0.9226025274199324,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2015,0.7399826489650004,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2016,3.846774193548387,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2016,33.52271,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2016,26.026673118279568,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2016,20.722624657534244,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2016,14.895238610195916,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2016,5.846,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2016,12.131,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2016,1.279,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2016,2.302,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2016,16.763163820000003,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2016,1.9263,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2016,1.615,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2016,1.8903489820115496,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2016,2.0539538269922866,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2016,10.968449007054605,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2016,39.70397996379101,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2016,161.32933524933418,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2016,1.597,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2016,37.69820466603663,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2016,0.029,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2016,5.559853,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2016,10.355427964593417,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2016,9.304666668852972,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2016,23.2509,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2016,82.01943285168485,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2016,1.184,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2016,17.710816534737702,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2016,10.947087239,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2016,0.4914922061699494,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2016,0.73998264896599,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2017,3.2124731182795694,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2017,38.904019999999996,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2017,22.999954838709698,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2017,11.611393442622951,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2017,15.478730282848762,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2017,5.5694,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2017,11.526693999999999,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2017,1.184538,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2017,2.021,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2017,15.766005,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2017,1.1999000000000002,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2017,1.4325259356689464,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2017,1.620944209679843,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2017,1.930716597372749,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2017,10.675750619477995,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2017,28.87276637012411,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2017,156.8769638196455,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2017,1.5926366120218578,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2017,27.70028046718216,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2017,0.118,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2017,5.309077,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2017,10.745,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2017,10.072794110877911,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2017,18.9299,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2017,65.72169145943501,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2017,4.985872563175105,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2017,13.132607396440257,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2017,12.760200000000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2017,0.33028979500010575,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2017,0.7379608384496895,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Canada,1540,595,2018,3.1659353952097615,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Mexico,1818,692,2018,36.75364658591712,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+usa,1996,776,2018,26.421311827957005,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Argentina,1474,569,2018,6.413228942433499,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Brazil,1527,589,2018,11.528073280041623,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Germany,1608,614,2018,5.2,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Italy,1727,663,2018,10.865090529768269,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Netherlands,1855,714,2018,0.605849245072349,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Poland,1872,726,2018,1.217,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Spain,1628,624,2018,15.550362963879106,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Turkey,1975,769,2018,0.5848297388121241,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Ukraine,1993,774,2018,0.5200276123708486,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Kingdom,1654,635,2018,1.682362987136377,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Kazakhstan,1733,667,2018,1.715051445538559,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Russian Federation,1896,736,2018,11.424614869868218,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Iran,1716,659,2018,23.023167515481227,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Saudi Arabia,1898,738,2018,150.5920397789645,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+United Arab Emirates,1465,568,2018,1.5926366120218578,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Egypt,1620,621,2018,22.125146374152145,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Africa,2052,788,2018,0.118,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Australia,1482,573,2018,5.25857,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+China,1549,599,2018,10.745,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+India,1713,657,2018,10.10219995371743,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Indonesia,1711,656,2018,20.197328544835717,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Japan,1732,666,2018,59.98025064853031,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Malaysia,1844,706,2018,2.327779043638332,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+South Korea,1758,673,2018,9.068335664297773,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Taiwan,1979,771,2018,8.433200000000001,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Thailand,1953,762,2018,0.17720600699998032,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil
+Vietnam,2033,783,2018,0.7379608384496895,terawatt_hours,elec_gen_from_oil,Elec Gen from Oil

@@ -1,0 +1,726 @@
+country_name,id,owid_country,year,value,unit,category,sheet
+Canada,1540,595,2000,687.9798428678182,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2000,443.9805109043716,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2000,1911.0546448087432,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2000,72.50914971825532,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2000,41.2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2000,3,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2000,4.529508196721312,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2000,19.105734972677595,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2000,175.15300000000002,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2000,118.61885340725688,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2000,7.7650273224043715,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2000,201.70199828495416,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2000,109.90737704918033,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2000,2.53551912568306,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2000,81.7422131147541,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2000,15,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2000,158.42256830601093,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2000,69.9422131147541,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2000,1026.6653325,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2000,28,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2000,265.288,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2000,259.98579234972675,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2000,9,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2000,34.95846994535519,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2000,9,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2000,60,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2000,32.422950819672124,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2000,5.454098360655738,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2000,95.84639415512483,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2000,15,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2000,64.65573770491802,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2000,41.86893224043716,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2000,42.61236296467329,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2000,77.56799754098361,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2000,9,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2001,672.3893846966663,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2001,441.09162038082195,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2001,1868.2082191780821,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2001,108.35833817287588,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2001,42.099999999999994,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2001,3,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2001,4.652602739726027,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2001,20.63371506849315,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2001,178.025,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2001,180.7084167155858,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2001,7.214246575342465,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2001,197.84603911686563,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2001,117.72739726027397,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2001,2.7013698630136984,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2001,82.70479452054794,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2001,20,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2001,158.543698630137,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2001,77.98178082191781,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2001,1046.130315576923,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2001,34,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2001,258.67199999999997,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2001,14.142465753424657,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2001,273.44219178082193,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2001,12,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2001,38.772602739726025,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2001,14,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2001,60,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2001,37.27890410958904,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2001,5.558767123287671,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2001,89.61832905650323,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2001,15,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2001,70.07671232876713,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2001,44.98683397260273,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2001,37.76999528042862,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2001,86.05716561643835,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2001,12,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2002,651.1556729197566,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2002,415.54931276986304,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2002,1880.2602739726026,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2002,105.95878194424164,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2002,43.7,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2002,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2002,1.6934246575342466,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2002,23.582498630136985,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2002,178.789,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2002,195.5561784222345,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2002,8.326575342465754,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2002,201.50872337123957,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2002,131.92178082191782,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2002,2.8602739726027395,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2002,83.3013698630137,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2002,20,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2002,149.55109589041095,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2002,72.67479452054795,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2002,1113.400315576923,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2002,53,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2002,294.65999999999997,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2002,18.59178082191781,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2002,297.3413698630137,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2002,11,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2002,35.912328767123284,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2002,16,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2002,59.96087,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2002,43.38082191780822,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2002,6.109753424657534,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2002,98.08887130174372,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2002,15,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2002,74.68493150684931,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2002,40.85675726027397,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2002,43.36341442882797,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2002,86.02968561643836,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2002,15,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2003,661.1004668383207,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2003,423.8036198904109,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2003,1719.1479452054793,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2003,130.10837566747549,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2003,58.800000000000004,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2003,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2003,4.5819178082191785,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2003,28.78305205479452,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2003,145.61,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2003,214.37089791649214,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2003,7.595616438356164,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2003,192.43227352965235,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2003,141.45602739726027,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2003,4.131506849315069,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2003,95.03260273972603,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2003,10,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2003,172.35550684931508,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2003,106.08630136986301,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2003,1097.2818393598525,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2003,50,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2003,299.129,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2003,19.672328767123286,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2003,290.73095890410957,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2003,9,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2003,36.865753424657534,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2003,25,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2003,60,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2003,44.14356164383562,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2003,6.007342465753425,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2003,96.49739806783089,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2003,14,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2003,75.19342465753424,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2003,36.33421917808219,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2003,22.777325398121075,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2003,90.16013698630137,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2003,14,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2004,666.7216573756257,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2004,447.28202393169397,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2004,1809.275956284153,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2004,140.45191448280463,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2004,61.800000000000004,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2004,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2004,8.442076502732242,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2004,29.19893989071038,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2004,162.18399999999997,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2004,226.4653404286048,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2004,7.701639344262295,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2004,181.51902317632175,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2004,0.12353634257344806,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2004,144.42669945355192,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2004,5.704918032786885,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2004,106.00928961748633,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2004,18,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2004,180.22734972677597,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2004,121.19754098360657,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2004,1183.9207598845103,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2004,45,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2004,304.53,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2004,20.886338797814208,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2004,292.3136612021858,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2004,3.764207650273224,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2004,8,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2004,34.54644808743169,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2004,48,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2004,56.89259,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2004,45.00546448087431,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2004,4.582213114754099,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2004,92.78399038674686,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2004,16.51145779889176,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2004,71.5016393442623,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2004,35.484780327868854,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2004,14.951706303394136,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2004,91.88948087431694,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2004,15,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2005,668.5017646862208,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2005,432.2721497753424,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2005,1716.9616438356165,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2005,137.45879607230086,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2005,72,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2005,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2005,19.590136986301367,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2005,27.094342465753428,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2005,162.767,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2005,264.15350922427433,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2005,7.055342465753426,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2005,165.17709991110877,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2005,0.2255817936521768,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2005,154.7101698630137,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2005,7.30958904109589,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2005,122.28602739726028,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2005,20,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2005,181.19778082191783,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2005,138.41465753424657,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2005,1241.1607995831232,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2005,35,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2005,302.46299999999997,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2005,20.91178082191781,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2005,298.1676712328767,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2005,4.206630136986302,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2005,7.7104,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2005,38.136986301369866,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2005,75.3043,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2005,70.20996106424398,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2005,51.484931506849314,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2005,6.6975342465753425,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2005,99.3306047634431,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2005,14.328502503409583,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2005,81.21534246575342,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2005,33.62410958904109,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2005,38.02948379762241,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2005,118.47123287671235,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2005,13.7726,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2006,703.6299268816681,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2006,433.54705126575334,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2006,1738.9945205479453,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2006,150.601003125085,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2006,83.4,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2006,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2006,21.83178082191781,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2006,30.8247397260274,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2006,176.795,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2006,279.43762870532237,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2006,6.96,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2006,150.29738500260754,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2006,1.9838789448539242,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2006,177.81033342465753,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2006,7.30958904109589,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2006,163.56698630136987,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2006,25,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2006,187.3347397260274,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2006,146.96,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2006,1205.5724197402528,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2006,35,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2006,306.512,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2006,21.007123287671234,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2006,282.75397260273974,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2006,19.837068493150685,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2006,7.7104,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2006,55.61643835616438,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2006,20.8249397260274,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2006,62.06940653770499,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2006,56.37917808219178,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2006,6.925698630136987,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2006,99.30454139722285,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2006,15.731087218392624,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2006,79.43424657534247,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2006,12.144868526027397,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2006,29.870011534751182,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2006,127.1172602739726,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2006,13.7123,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2007,683.302637146201,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2007,402.82056343013704,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2007,1782.791780821918,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2007,124.81359978667169,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2007,71.74223750702475,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2007,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2007,21.86027397260274,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2007,33.9031397260274,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2007,175.23499999999999,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2007,278.1408937505971,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2007,6.451506849315069,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2007,137.38650579454924,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2007,19.97035616438356,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2007,1.7449128173385773,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2007,188.67050932944392,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2007,7.945205479452055,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2007,185.99,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2007,27,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2007,186.8723287671233,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2007,162.5058904109589,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2007,1194.4682656717596,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2007,35,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2007,310.295,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2007,21.865205479452055,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2007,305.22301369863015,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2007,21.697698630136987,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2007,3,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2007,60.701369863013696,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2007,22.049769863013697,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2007,65.55413360079987,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2007,70.23561643835616,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2007,8.424328767123288,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2007,90.54426376758158,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2007,14.850160709395851,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2007,78.27657534246576,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2007,17.375652712328765,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2007,42.75794122204248,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2007,134.85191780821918,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2007,10.8795,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2008,625.8945989489469,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2008,373.75173699180334,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2008,1783.6830601092897,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2008,122.89057848982247,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2008,74.46524748245851,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2008,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2008,24.498360655737706,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2008,34.752901639344266,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2008,164.59,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2008,283.0945172326913,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2008,5.60983606557377,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2008,144.33709233893632,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2008,21.31636612021858,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2008,1.77956291344689,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2008,180.3643554856191,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2008,10.300546448087431,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2008,241.87978142076503,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2008,34,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2008,206.69297814207653,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2008,221.5617486338798,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2008,1211.387906458596,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2008,35,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2008,293.894,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2008,21.23497267759563,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2008,307.7171942032787,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2008,21.639344262295083,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2008,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2008,64.65573770491802,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2008,20.535390710382515,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2008,67.48908962056528,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2008,72.0087431693989,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2008,8.439453551912568,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2008,82.37903013151897,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2008,14.25647386158149,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2008,114.60478142076502,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2008,28.862543169398908,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2008,39.161969202351564,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2008,138.8136612021858,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2008,7.923497267759563,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2009,626.0222784816601,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2009,377.01359248219177,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2009,1910.0109589041094,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2009,126.01027777543347,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2009,69.06593510722165,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2009,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2009,38.183561643835624,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2009,43.558709589041094,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2009,158.614,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2009,284.98081306534004,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2009,3.55945205479452,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2009,125.2523916898787,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2009,12.420301369863015,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2009,0.37587670932402256,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2009,224.94484557092377,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2009,10.487671232876712,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2009,269.9219178082192,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2009,40.916666666666664,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2009,217.1049589041096,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2009,264.39178082191785,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2009,1297.9454490042149,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2009,35,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2009,299.776,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2009,21.92876712328767,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2009,257.52,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2009,19.843835616438355,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2009,7,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2009,65.46849315068494,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2009,22.394512328767124,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2009,51.49590000000001,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2009,73.03232876712329,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2009,8.830136986301369,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2009,84.21756314586004,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2009,13.683134173240267,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2009,147.50876712328767,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2009,45.46790027397261,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2009,29.178042155567756,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2009,145.09849315068493,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2009,9.721753424657534,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2010,607.6904958260228,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2010,382.3470588164384,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2010,2074.1041095890414,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2010,122.5065738633819,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2010,70.38756527986288,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2010,2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2010,42.42794520547945,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2010,47.18525205479452,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2010,146.846,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2010,261.4800984051233,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2010,3.7819178082191782,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2010,110.38329393499936,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2010,13.458986301369862,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2010,0.12024987455191746,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2010,228.2759127258519,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2010,10.487671232876712,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2010,352.21465753424656,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2010,44.833333333333336,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2010,249.12671232876716,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2010,322.8154794520548,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2010,1441.7747020600634,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2010,35,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2010,333.807,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2010,22.56438356164383,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2010,228.37698630136984,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2010,19.23604096040241,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2010,7,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2010,61.336986301369855,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2010,19.67671780821918,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2010,50.495900000000006,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2010,78.1808219178082,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2010,4.1658904109589034,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2010,77.0866886111601,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2010,12.7134249165048,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2010,139.62049643835616,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2010,58.118955616438356,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2010,79.28815803143412,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2010,148.8272602739726,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2010,18.931835616438356,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2011,615.276179906688,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2011,387.697991569863,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2011,2216.1095890410957,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2011,113.80410481117553,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2011,67.6508910798338,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2011,1,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2011,41.896986301369864,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2011,43.952342465753425,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2011,131.843,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2011,274.5637663702413,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2011,4.671780821917808,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2011,76.0645937047174,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2011,13.278849315068495,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2011,0.10017337375716255,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2011,246.7658016172491,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2011,10.487671232876712,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2011,404.09999999999997,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2011,45.166666666666664,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2011,264.32698630136986,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2011,425.8342465753425,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2011,1513.0233067975328,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2011,33.8247,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2011,446.78799999999995,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2011,23.2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2011,225.13534246575344,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2011,13.961580717019272,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2011,8.8,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2011,65.15068493150685,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2011,20.708849315068495,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2011,8.494499999999999,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2011,88.00109589041098,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2011,6.588986301369864,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2011,71.28120229677047,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2011,12.768539830672129,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2011,143.66664219178082,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2011,50.23267781917808,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2011,76.34728816990456,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2011,203.82794520547947,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2011,18.699835616438357,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2012,609.554839235142,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2012,363.1862253251366,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2012,2408.1475409836066,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2012,107.34387249706398,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2012,70.36166035582754,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2012,1,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2012,45.49890710382513,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2012,35.21750546448087,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2012,123.879,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2012,299.56950787748895,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2012,3.8666666666666667,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2012,54.88944392301717,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2012,10.423797814207651,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2012,1.7397281783345737,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2012,260.437454665892,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2012,13.628415300546449,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2012,412.04030054644807,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2012,41.5,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2012,274.50360655737705,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2012,436.73442622950824,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2012,1634.9964687803167,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2012,25,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2012,479.1154366120218,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2012,23.770491803278688,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2012,216.37486338797814,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2012,19.856001170960184,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2012,11.5,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2012,65.92349726775956,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2012,20.24328961748634,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2012,39.99999999999999,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2012,81.58032786885245,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2012,12.521994535519129,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2012,73.22074808396432,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2012,12.8620128522103,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2012,139.60008524590165,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2012,58.010033049180336,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2012,65.06867570111717,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2012,229.4331967213115,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2012,19.796065573770495,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2013,641.9622098188144,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2013,352.625626139726,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2013,2605.8,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2013,104.90720646167024,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2013,72.10333994460618,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2013,1,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2013,53.7227397260274,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2013,34.44583561643836,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2013,115.99999999999999,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2013,299.5896998225881,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2013,2.796712328767123,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2013,49.344664843416034,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2013,11.392849315068492,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2013,16.56834141108811,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2013,278.4813489806488,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2013,16.843835616438355,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2013,417.63260273972605,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2013,44.5,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2013,278.1432876712329,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2013,471.14493150684933,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2013,1518.118415514581,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2013,14.1644,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2013,482.46336561643835,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2013,24.471232876712328,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2013,210.13479452054798,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2013,22.299649315068493,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2013,9,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2013,66.73972602739725,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2013,20.714057534246574,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2013,22.3562,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2013,85.58575342465754,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2013,12.239890410958903,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2013,72.20138570657559,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2013,13.134213573550023,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2013,136.43678465753425,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2013,57.976398290410955,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2013,38.80794934920377,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2013,221.55219178082194,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2013,21.92876712328767,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2014,660.540415196745,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2014,355.4333521205479,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2014,3014.5753424657532,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2014,105.89016367403607,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2014,86.77771491421372,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2014,0,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2014,53.84390953229147,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2014,32.85355890410959,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2014,114.00000000000001,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2014,318.2040414556691,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2014,2.8284931506849316,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2014,56.05348509358604,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2014,12.154,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2014,9.003962056086559,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2014,264.6249267674413,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2014,16.843835616438355,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2014,441.15356164383564,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2014,40.333333333333336,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2014,267.22041095890415,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2014,466.2053424657534,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2014,1577.3556010367697,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2014,10,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2014,539.4885542465754,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2014,25.106849315068494,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2014,260.2213698630137,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2014,29.70121205479452,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2014,8,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2014,47.04515068493151,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2014,18.82971780821918,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2014,7.5341999999999985,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2014,88.22356164383561,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2014,11.754712328767125,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2014,82.54907153954505,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2014,12.067050162679193,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2014,127.53224873802137,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2014,58.26750744109588,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2014,38.80794934920377,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2014,228.07397260273973,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2014,20.660712328767122,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2015,709.3148818526163,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2015,319.70942852602735,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2015,3342.26301369863,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2015,114.40820527962603,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2015,87.53656869329937,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2015,0,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2015,49.28648948714127,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2015,30.1166602739726,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2015,116.99999999999999,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2015,331.91822417505216,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2015,3.2098630136986297,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2015,54.55465224342068,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2015,10.823150684931509,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2015,22.80627751219175,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2015,248.63178747761106,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2015,16.843835616438355,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2015,460.5406849315068,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2015,40.666666666666664,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2015,279.2417808219178,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2015,469.8061643835616,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2015,1577.6667515670156,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2015,8,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2015,613.7972219178082,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2015,25.742465753424657,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2015,267.7852054794521,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2015,16.122188493150684,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2015,7,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2015,64.2290410958904,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2015,17.40058082191781,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2015,15,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2015,82.3441095890411,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2015,9.973178082191781,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2015,62.02694507488753,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2015,11.434162857336887,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2015,122.30673040642654,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2015,51.8535560939178,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2015,34.71379718903516,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2015,229.79027397260273,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2015,23.142794520547948,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2016,772.9113463800525,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2016,302.27334252732237,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2016,3509.243169398907,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2016,99.56011137222444,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2016,81.37735536730503,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2016,0,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2016,49.8415888131671,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2016,25.174475409836067,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2016,105,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2016,343.4333934800051,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2016,3.6765027322404373,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2016,72.91691256830602,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2016,11.126284153005464,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2016,17.6902374094597,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2016,265.9760485931423,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2016,19.9672131147541,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2016,495.9132513661202,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2016,47.75,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2016,280.971174863388,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2016,473.310519125683,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2016,1717.847607660895,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2016,8,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2016,653.6322255464481,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2016,26.306010928961747,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2016,261.2218579234973,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2016,23.217114754098354,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2016,6.6499999999999995,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2016,60.02841530054645,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2016,19.397926229508197,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2016,15,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2016,78.2207650273224,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2016,8.681366120218579,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2016,69.25430623767997,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2016,11.829524608154085,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2016,129.3786094841522,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2016,44.693868355191256,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2016,36.73094513476706,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2016,228.00833333333333,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2016,25.38688524590164,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2017,821.5260705349597,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2017,275.8869868356164,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2017,3783.0246575342467,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2017,110.91592375248703,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2017,99.1821959396738,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2017,0,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2017,48.51562356272445,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2017,26.86641369863014,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2017,104,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2017,345.4407141417926,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2017,3.0509589041095886,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2017,81.58646575342466,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2017,10.481424657534248,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2017,24.96471047784451,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2017,237.71086568797432,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2017,23.2,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2017,552.7542465753426,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2017,64.41666666666667,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2017,296.62986301369864,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2017,458.15561643835616,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2017,1717.0362617071714,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2017,8,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2017,630.5038964383562,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2017,27.013698630136986,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2017,253.6109589041096,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2017,39.00120219178082,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2017,6.299999999999999,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2017,57.300821917808214,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2017,21.19990684931507,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2017,20.0411,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2017,79.70630136986301,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2017,4.8323835616438355,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2017,64.01194709719906,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2017,12.58431110166118,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2017,140.52239281112725,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2017,36.947578313496216,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2017,34.98989322110455,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2017,243.52835616438358,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2017,23.31441095890411,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Canada,1540,595,2018,905.9895954134058,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Mexico,1818,692,2018,235.07602894246577,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+usa,1996,776,2018,4349.071232876712,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Argentina,1474,569,2018,102.31455263598173,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brazil,1527,589,2018,95.89359622427386,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Ecuador,1619,620,2018,0,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Peru,1866,722,2018,55.6341006478298,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Trinidad & Tobago,2183,767,2018,23.82191506849315,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Venezuela,2016,780,2018,88.44776790101892,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Norway,1858,715,2018,329.3494482349056,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Romania,1893,735,2018,2.7013698630136984,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Kingdom,1654,635,2018,80.07766764298712,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Azerbaijan,1485,575,2018,11.516657534246574,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kazakhstan,1733,667,2018,27.258661222665683,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Russian Federation,1896,736,2018,237.17598401893318,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Turkmenistan,1956,764,2018,25.52,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iran,1716,659,2018,559.0253424657535,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Iraq,1724,660,2018,64.33333333333333,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Kuwait,1771,674,2018,311.51788475475036,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Qatar,1890,733,2018,470.86794520547943,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Saudi Arabia,1898,738,2018,1753.1654268916793,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Syria,1944,758,2018,8,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+United Arab Emirates,1465,568,2018,641.2559301185851,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Yemen,2048,787,2018,27.649315068493152,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Algeria,1618,619,2018,251.67232876712328,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Angola,1454,563,2018,51.410675616438354,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Congo (Republic of),2343,603,2018,5.949999999999999,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Egypt,1620,621,2018,55.051510115808554,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Equatorial Guinea,1677,643,2018,21.136164980715645,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Libya,1778,678,2018,21.232799999999997,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Nigeria,1851,711,2018,84.50520547945204,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Tunisia,1974,768,2018,8.427817888799355,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Australia,1482,573,2018,61.02834584388822,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Brunei,1530,591,2018,11.982995544428526,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+India,1713,657,2018,149.9205161347908,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Indonesia,1711,656,2018,36.35591073896362,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Malaysia,1844,706,2018,35.63888733352307,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Thailand,1953,762,2018,256.6332876712329,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs
+Vietnam,2033,783,2018,31.66323287671233,thousand_barrels_daily,oil_production_ng_ls,Oil Production - NGLs

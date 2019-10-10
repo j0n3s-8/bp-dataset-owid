@@ -1,0 +1,1259 @@
+country_name,id,owid_country,year,value,unit,category,sheet
+Canada,1540,595,1981,23.157113816,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1981,1.6992691315563202,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1981,439.9325382137266,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1981,2.9014668,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1981,2.753376,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1981,0.0365,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1981,5.01782,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1981,42.66732499999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1981,148.85351265,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1981,3.477836,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1981,7.180334405521894,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1981,102.99433312882343,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1981,9.28324,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1981,12.057001314,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1981,6.9330001152000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1981,0,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1981,78.00800000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+USSR,2265,736,1981,346.3323511682,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1981,74.86107999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1981,1.8505760000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1981,67.80491841512487,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1981,310.8,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1981,63.77848413585555,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1981,0.23570400000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1981,11.065095,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1981,1.586465981910164,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1981,1.2444295702765453,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1981,0.700908,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1981,8.7406,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1981,0.45521501956000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1981,3.3600000000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1982,24.560022579100004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1982,2.0432549918792398,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1982,446.20471433567485,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1982,3.1981983,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1982,3.050904,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1982,0.0365,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1982,5.512560000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1982,43.116595000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1982,149.50269929,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1982,3.6442,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1982,7.197046217218343,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1982,120.18109732111733,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1982,9.582699999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1982,12.949004845000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1982,7.4670806284,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1982,0,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1982,76.069,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+USSR,2265,736,1982,349.23131790620005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1982,82.81699200000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1982,1.7860960000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1982,69.21361171886878,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1982,333.15,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1982,63.13370135855546,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1982,0.3476634,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1982,10.872414,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1982,1.815581185344167,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1982,1.2581691534634645,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1982,0.795261,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1982,8.85104,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1982,0.53019664236,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1982,3.528,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1983,25.461237216800004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1983,2.5947262826024655,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1983,412.8783521855908,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1983,3.4122077,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1983,3.486708,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1983,0.0292,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1983,5.542800000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1983,43.8195,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1983,141.26144368,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1983,3.9767,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1983,6.903919238601776,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1983,122.398720656902,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1983,11.115,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1983,13.153990508,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1983,7.8594902300000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1983,0,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1983,72.696,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+USSR,2265,736,1983,348.9069112850001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1983,83.696628,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1983,2.147184,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1983,72.11872044407005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1983,357.25,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1983,66.79596073516765,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1983,0.383019,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1983,10.203585999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1983,1.8351353009351528,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1983,1.3952332821558429,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1983,0.817726,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1983,8.73884,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1983,0.5038237491700001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1983,3.528,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1984,33.3524447856,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1984,2.8270039170727053,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1984,472.07009217641456,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1984,3.8296808,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1984,4.57953,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1984,0.0365,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1984,5.529320000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1984,44.464929999999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1984,142.97746467,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1984,4.3225,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1984,6.743996673122485,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1984,122.62057122828737,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1984,10.94748,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1984,13.025984016,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1984,8.8105411835,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1984,0,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1984,30.719,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+USSR,2265,736,1984,345.1202255666,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1984,93.72212300000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1984,2.005328,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1984,75.74525554685027,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1984,394.6,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1984,70.08293909716252,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1984,0.8662122,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1984,9.913409999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1984,2.0037434297102563,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1984,1.4403093770427822,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1984,1.0378829999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1984,9.402800000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1984,0.6310276477400001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1984,2.8000000000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1985,35.5195370673,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1985,2.900544568644311,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1985,462.6366827769997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1985,3.9083278,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1985,6.19206,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1985,0.0292,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1985,5.28068,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1985,43.92091,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1985,148.63417704,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1985,4.837972000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1985,6.555864114898816,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1985,123.49990982327805,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1985,11.27126,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1985,12.91600168,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1985,10.635609515,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1985,83.6511417,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1985,56.572,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1985,57.27078,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1985,185.80566899999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1985,1.4908760890739998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1985,99.756648,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1985,2.005328,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1985,92.37709977344872,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1985,436.15,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1985,72.37395883920895,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1985,1.17852,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1985,9.61506,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1985,2.4066929870545866,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1985,1.3770115421767555,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1985,0.9839669999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1985,9.91892,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1985,1.4924349615,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1985,3.136,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1986,33.0113215176,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1986,3.1414684245724662,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1986,467.0487643882601,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1986,3.7060830000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1986,7.40853,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1986,0.0438,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1986,6.00558,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1986,43.82894,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1986,143.51241293,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1986,5.0558700000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1986,6.2021970720502955,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1986,125.57928320280249,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1986,11.71604,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1986,13.234002655000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1986,11.3605301732,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1986,85.4968666,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1986,65.59200000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1986,60.16094,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1986,192.17340924979754,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1986,1.6798031936009998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1986,101.737704,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1986,2.61144,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1986,98.2682313598295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1986,447,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1986,77.85260883920894,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1986,1.5261833999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1986,9.370653,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1986,2.598908927589655,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1986,1.4358106279717933,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1986,0.9210649999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1986,10.67132,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1986,1.5196106902372857,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1986,3.416,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1987,33.2935904949,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1987,3.4867918219165004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1987,482.1699218110818,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1987,3.3761719,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1987,10.069859999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1987,0.1752,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1987,6.270160000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1987,43.585894999999994,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1987,138.95668392,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1987,5.9690856000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1987,6.157143211565681,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1987,126.94817771354687,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1987,12.598279999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1987,11.494003338,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1987,12.209108494399999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1987,84.95814399999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1987,63.189,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1987,62.14614,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1987,193.7310411315789,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1987,1.4099073299909999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1987,101.41032000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1987,3.1143840000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1987,102.63693428808298,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1987,464.05,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1987,85.3382887489252,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1987,1.7854577999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1987,7.4737350000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1987,2.8932759423553946,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1987,1.2489025352026146,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1987,1.082813,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1987,10.68056,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1987,1.9400808949830448,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1987,3.528,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1988,38.5543850591,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1988,3.1130457628737944,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1988,496.4507306012668,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1988,3.6778385000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1988,10.41969,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1988,0.7811,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1988,5.821600000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1988,42.543549999999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1988,137.88468151,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1988,6.2868223,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1988,5.674275308899408,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1988,126.92959879413188,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1988,13.87002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1988,10.888000676,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1988,11.083171566599999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1988,84.85616382378076,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1988,63.303,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1988,62.34017999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1988,199.9565363967611,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1988,1.5448552617959999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1988,104.19132,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1988,3.2691360000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1988,100.88508274884525,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1988,489.95,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1988,90.72532558469474,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1988,2.6457774,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1988,6.373025,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1988,3.194454057574272,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1988,1.4053459083404807,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1988,1.21311,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1988,10.6898,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1988,2.0616557481140236,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1988,3.416,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1989,41.043279335099996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1989,3.344391898347187,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1989,511.00416127826185,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1989,3.3193016,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1989,13.04238,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1989,1.5402999999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1989,5.84258,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1989,40.734375,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1989,131.56586965239998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1989,7.121201800000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1989,5.426905046784615,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1989,117.15875139891868,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1989,14.011437,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1989,11.647992895000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1989,12.7696917076,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1989,79.77583727082953,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1989,60.882,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1989,60.15855999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1989,192.34567453441292,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1989,1.733782366323,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1989,101.078952,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1989,3.2949280000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1989,109.60257956204623,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1989,527.1,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1989,98.66098872312983,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1989,5.126562,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1989,5.769578,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1989,3.0021429662406445,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1989,1.5938339450776762,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1989,1.222096,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1989,9.1454,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1989,2.6396551474327956,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1989,2.856,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1990,39.961332584800004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1990,3.385807776822395,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1990,537.5992353334295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1990,1.68707754,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1990,14.122919999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1990,1.5695,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1990,5.0909,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1990,36.29049781940665,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1990,125.03713547719119,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1990,7.118499999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1990,4.909219664416295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1990,99.95716209429438,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1990,8.263830217799999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1990,11.382999991999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1990,11.722791482300002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1990,75.68452484721969,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1990,56.443000000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1990,57.0729208,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1990,185.56113999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1990,1.814751125406,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1990,100.14894,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1990,3.5464,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1990,114.75504838990278,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1990,539.9415,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1990,106.29119876277825,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1990,6.3227598,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1990,4.571084,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1990,2.6637789641320704,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1990,1.498171571732704,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1990,1.2670259999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1990,7.747649999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1990,3.5774810157245835,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1990,2.856,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1991,41.749686312479994,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1991,3.074496035158117,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1991,516.9499052293812,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1991,2.0180968040000007,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1991,13.821389999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1991,1.752,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1991,5.069189534252794,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1991,33.91552306083857,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1991,106.1505369190582,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1991,6.903399902343749,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1991,4.743955134184868,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1991,95.73547684664933,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1991,7.030408014000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1991,10.436002088,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1991,11.003979166,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1991,63.0431403,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1991,57.555,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1991,56.535353,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1991,170.6435636,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1991,1.6654664686335752,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1991,102.16395299999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1991,3.6237760000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1991,119.03906064679941,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1991,543.703,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1991,113.65641937517913,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1991,8.1553584,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1991,4.435550000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1991,3.16658301576972,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1991,1.571723004740136,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1991,1.271519,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1991,6.7761000000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1991,4.1741476452569115,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1991,2.9120000000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1992,37.1054275144,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1992,2.8556893092576674,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1992,517.7840257558934,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1992,1.889277059,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1992,15.111,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1992,1.8104,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1992,5.801243506129785,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1992,31.416915404678868,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1992,97.6346579338095,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1992,6.99510009765625,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1992,4.314160058434615,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1992,93.16989738025593,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1992,7.347230929799999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1992,10.6019973,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1992,12.11729851,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1992,61.065874199999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1992,51.513999999999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1992,54.81448,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1992,163.63422409999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1992,1.317195712381995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1992,104.6023360498356,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1992,3.57864,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1992,127.01936839255677,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1992,558.19,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1992,119.95687188306104,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1992,13.1758536,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1992,4.1876,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1992,2.812439932852983,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1992,1.7897482984971635,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1992,1.338914,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1992,5.38605,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1992,4.4484809409045365,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1992,2.9120000000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1993,39.44093481042,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1993,3.0910241712047393,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1993,484.7552365406879,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1993,1.8777123750000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1993,14.981969999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1993,2.8908,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1993,5.706800021362305,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1993,30.756390248978477,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1993,87.8497315785018,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1993,7.16310009765625,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1993,3.7166142509780222,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1993,90.11083952705667,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1993,7.6253273232000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1993,10.43099433,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1993,11.549471943900002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1993,52.665822,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1993,41.588,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1993,48.313326599999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1993,147.5766659,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1993,1.073116701778725,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1993,106.92280149186561,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1993,3.4109920000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1993,127.6096358639518,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1993,575.335,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1993,123.93543859558613,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1993,16.2517908,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1993,3.9782200000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1993,2.4641840404868125,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1993,2.0196698416560355,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1993,1.415295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1993,4.23315,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1993,4.638435823910786,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1993,3.6400000000000006,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1994,41.44618689288,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1994,4.17980319098118,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1994,529.3234289233058,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1994,2.0941487359999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1994,15.638849999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1994,3.2412,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1994,5.670680866148844,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1994,28.103369999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1994,80.94855864343589,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1994,7.360799804687501,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1994,3.5436709980415406,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1994,90.04376398594698,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1994,7.78031004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1994,9.868006487999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1994,12.1068615902,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1994,44.09866300000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1994,29.704,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1994,45.1120586,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1994,131.33980029999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1994,1.071287142207705,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1994,111.127889350656,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1994,3.527056,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1994,130.430812719988,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1994,619.9505,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1994,126.06149130696473,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1994,19.3689762,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1994,3.81843,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1994,2.233738956272602,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1994,1.854513044538916,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1994,1.356886,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1994,3.3291000000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1994,5.17834145287326,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1994,3.3824000000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1995,43.01161193592,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1995,4.125035826884495,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1995,527.3702613266851,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1995,2.054397391,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1995,17.7606,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1995,3.1754999999999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1995,5.921603581654658,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1995,27.226602405344458,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1995,79.04953282282342,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1995,7.51010009765625,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1995,3.605139900403852,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1995,92.21056405452522,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1995,7.887577998300001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1995,9.734001713,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1995,12.0829076622,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1995,37.2409187,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1995,32.751,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1995,35.9186282,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1995,124.71361719999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1995,0.84662033188311,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1995,116.91831187629,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1995,3.5721920000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1995,136.87171015774481,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1995,680.3655,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1995,133.0957273817713,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1995,24.654638400000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1995,3.44926,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1995,2.1638870511353017,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1995,2.274094257709804,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1995,1.424281,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1995,2.574,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1995,5.528831854039998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1995,4.676,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1996,43.761698723799995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1996,4.566518582210759,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1996,543.034756375495,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1996,1.914669889,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1996,20.39916,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1996,3.0513999999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1996,6.027382573335067,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1996,27.552319774078953,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1996,73.98744373229087,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1996,7.1892001953125,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1996,3.8506345350853577,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1996,91.4048104176513,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1996,8.0643966198,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1996,9.612998256000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1996,12.295606826962295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1996,33.0968206,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1996,31.135395944814803,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1996,33.1193576,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1996,120.76006637999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1996,0.78805292947974,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1996,116.94575618896269,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1996,3.333616,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1996,141.07328087736266,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1996,698.363666994,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1996,142.6444031995796,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1996,29.669241,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1996,3.5704800000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1996,1.780941061973572,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1996,2.3218880645429745,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1996,1.554578,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1996,2.2279500000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1996,6.372094189037469,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1996,5.50088,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1997,45.331593912,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1997,4.5311216203305635,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1997,555.666586397664,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1997,2.240403459,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1997,22.591979999999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1997,3.8617,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1997,5.011599999237061,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1997,27.96877515672903,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1997,70.86769816084896,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1997,7.7062001953125,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1997,4.021629412791995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1997,93.00560214847278,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1997,6.602902996599999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1997,9.631994937,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1997,13.118463182516363,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1997,33.95922,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1997,30.303420984615872,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1997,31.456535600000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1997,116.0359682,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1997,0.81263733765795,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1997,124.6940817923052,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1997,3.41744,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1997,153.83613837052005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1997,693.779525313,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1997,147.3693431684433,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1997,32.3032332,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1997,2.35277,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1997,1.7149209500551226,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1997,2.1846772872314846,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1997,1.410802,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1997,2.0304,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1997,6.887383945667456,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1997,6.377280000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1998,42.87434307777,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1998,4.76284990923856,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1998,573.0029906038375,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1998,2.192356678,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1998,23.157089999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1998,4.7158,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1998,5.0665,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1998,26.10133,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1998,65.00839069169295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1998,8.126000000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1998,3.675819173819905,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1998,80.34857658876095,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1998,5.1505020109999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1998,9.237991826,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1998,13.944884273429373,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1998,34.426283700000006,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1998,25.757141604111577,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1998,30.3128196,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1998,108.83541,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1998,0.8235908104943701,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1998,126.07047810283441,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1998,3.527056,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1998,157.5323977028959,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1998,666.0276202860001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1998,146.4700069331823,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1998,36.6696498,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1998,2.0166600000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1998,1.761352999687195,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1998,1.897397282988296,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1998,1.4916759999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1998,1.96245,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1998,6.002847147394053,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1998,6.536320000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,1999,41.210322262969996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,1999,4.868778064392855,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,1999,555.0654463037241,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,1999,2.2462630860000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,1999,22.600259999999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,1999,4.8107,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,1999,4.27600000076294,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,1999,23.13349,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,1999,63.279921406833395,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,1999,8.034299804687501,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,1999,3.397814475798844,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,1999,77.73971282707784,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,1999,4.646586989,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,1999,8.58600364,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,1999,13.284605790197823,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,1999,36.2873613,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,1999,23.219264289125704,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,1999,25.3126636,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,1999,117.7802,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,1999,0.824432742281295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,1999,126.27006065592211,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,1999,3.2111040000000006,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,1999,166.1150404955246,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,1999,682.012289973,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,1999,143.2677844875042,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,1999,43.416676800000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,1999,2.1544100000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,1999,1.731733029484749,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,1999,2.1903603060338375,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,1999,1.487183,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,1999,1.8886500000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,1999,5.697951661136637,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,1999,5.39224,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2000,39.08206816317001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2000,5.41468424572466,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2000,541.5891501945079,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2000,2.6850605290000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2000,26.386979999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2000,5.7524,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2000,4.2948000015258785,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2000,25.048599999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2000,60.71252637300368,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2000,8.221599609375001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2000,3.315753304803909,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2000,71.89496236433072,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2000,5.603452020400001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2000,8.340998081999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2000,12.488181858363584,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2000,36.073079699999994,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2000,19.55147786006217,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2000,32.4361086,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2000,121.49537999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2000,0.702504300321765,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2000,126.6338745491713,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2000,2.8435680000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2000,171.69559625274962,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2000,707.3182795,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2000,152.2950789810416,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2000,45.396699413099995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2000,1.72463,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2000,1.8074200737476351,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2000,2.1818669120204,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2000,1.451239,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2000,1.8675000000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2000,5.184035597367464,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2000,6.501040000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2001,39.8023549689,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2001,4.162063867392759,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2001,560.769647579531,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2001,2.305142373,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2001,30.298929479999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2001,5.613700000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2001,4.497299999237061,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2001,25.347075000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2001,58.25692477774829,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2001,8.392000000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2001,3.021157025483388,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2001,72.05637813313854,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2001,5.7006030050000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2001,7.863007208999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2001,12.281450278625226,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2001,35.5995063,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2001,19.968764452869003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2001,34.24238203076923,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2001,128.38785,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2001,0.7593939297216585,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2001,126.2728353001968,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2001,2.9089810256000006,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2001,185.5478043687242,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2001,749.3748701249999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2001,154.23534847426524,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2001,54.5303914596,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2001,1.7632000000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2001,1.7929609564244746,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2001,2.4789547922487136,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2001,1.4647179999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2001,1.7176500000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2001,5.640964777307669,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2001,7.502320000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2002,34.26122462446,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2002,3.3909440145218315,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2002,541.5642624694508,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2002,2.0713156249999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2002,27.244280767199996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2002,5.912999999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2002,4.42829999923706,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2002,24.254859000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2002,58.42320151354125,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2002,8.582099609375,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2002,2.959650098127436,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2002,71.77186636387181,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2002,6.0989170003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2002,7.683999441999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2002,11.360297561386334,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2002,35.873746600000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2002,18.80758032674601,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2002,31.85144104615384,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2002,122.57097999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2002,0.7636858710678001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2002,124.35921270373672,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2002,2.53933524,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2002,191.23356243498745,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2002,800.2856268539999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2002,161.07235800478605,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2002,60.88770134118,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2002,0.75456584800000015,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2002,1.9337705786585806,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2002,2.849961247398846,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2002,1.568057,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2002,1.4931,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2002,5.689329699309237,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2002,9.18904,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2003,31.811720121959997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2003,4.413455789624535,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2003,525.9497149007009,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2003,1.9053337830000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2003,34.5193844253,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2003,5.1319,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2003,4.645300000762941,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2003,24.385213,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2003,57.7988298410468,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2003,8.176,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2003,3.056332242853888,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2003,71.42909030037457,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2003,6.5401799999999986,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2003,7.1440017220000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2003,10.776957095235602,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2003,34.5809622,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2003,17.63582519196181,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2003,36.54895384,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2003,132.46016,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2003,0.534544760554704,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2003,134.7914684085996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2003,1.8211486176,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2003,197.68251973225654,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2003,945.33981024,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2003,168.07685833669234,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2003,67.33945428,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2003,0.7371944710000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2003,1.9774133832693102,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2003,3.236030433536451,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2003,1.5002126999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2003,1.4841,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2003,5.253543873601916,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2003,10.815840000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2004,33.91005077616,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2004,5.8767821486576874,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2004,543.7522822211586,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2004,2.228918878,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2004,37.182441239999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2004,5.918331919999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2004,4.5383000000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2004,23.40751654040696,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2004,58.41312778914059,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2004,8.546799804687499,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2004,2.327454500592218,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2004,69.3203905261328,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2004,6.299218000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2004,6.9219998050000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2004,10.532213876611,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2004,34.3870497,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2004,15.593690949162305,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2004,37.46636642,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2004,137.08016,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2004,0.775053741535515,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2004,137.0933161318042,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2004,2.4487369712000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2004,205.40249671098042,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2004,1106.9415321999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2004,181.61144751281253,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2004,77.9897542515,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2004,0.737521214,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2004,2.4025682805478574,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2004,3.2717435767231935,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2004,1.5249242,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2004,1.43595,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2004,5.610240938495601,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2004,15.315440000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2005,35.32136861799,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2005,6.071703998280311,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2005,551.1786164931002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2005,2.449680278,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2005,41.175816929999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2005,5.25235,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2005,4.177999999904633,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2005,23.569974000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2005,56.571865520219234,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2005,8.538,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2005,1.748146,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2005,69.37028562155342,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2005,5.794621,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2005,6.6259947530000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2005,11.213998498999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2005,34.9464528,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2005,12.713832193573875,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2005,37.255426459999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2005,135.55836,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2005,0.8837454871908432,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2005,138.3826176455035,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2005,2.1735086048000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2005,215.07209330358842,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2005,1241.7016500000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2005,189.85542505634848,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2005,89.99322381587999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2005,0.613577621,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2005,3.6531195156902077,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2005,3.33025589155099,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2005,1.5667091,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2005,1.2744,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2005,5.982731828132266,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2005,19.092080000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2006,34.80097380376001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2006,6.768668529664662,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2006,565.3444230384749,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2006,2.3926598560000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2006,45.46894795611979,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2006,5.2294206999999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2006,4.30740000038147,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2006,23.861561000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2006,53.34939956630941,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2006,8.1702998046875,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2006,1.7565989999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2006,68.04756132929191,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2006,6.479706,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2006,6.242994080000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2006,13.1600018682,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2006,35.677854700000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2006,11.417929463273483,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2006,41.42654936,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2006,140.98,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2006,0.7908627126120481,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2006,138.2538190849932,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2006,1.358667752,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2006,219.8487074504152,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2006,1328.4225438400001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2006,198.15854962392578,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2006,114.17579011985998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2006,0.7492878190000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2006,4.054860242938996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2006,3.583519426808107,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2006,1.7996711500000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2006,1.2708,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2006,5.33627649161232,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2006,21.715680000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2007,35.69623444228,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2007,7.3038056033247365,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2007,558.3325963823086,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2007,2.4560732349999994,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2007,48.017678734680814,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2007,5.00439893,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2007,4.811099999809264,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2007,23.804004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2007,54.41409110903543,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2007,8.389099609375,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2007,1.7728119999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2007,62.489777604665996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2007,6.858353,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2007,7.192205196110028,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2007,5.864997192000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2007,14.7969978472,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2007,34.0208785,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2007,10.696584279539541,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2007,42.20164577999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2007,143.47508,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2007,0.9771846998616499,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2007,138.36151325330673,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2007,1.3413265008,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2007,227.0726805208772,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2007,1439.28331295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2007,210.34614209653284,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2007,127.83801185274,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2007,0.784253728,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2007,4.773000467061997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2007,2.9813130161096835,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2007,1.65948955,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2007,1.34199,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2007,4.9123347997283835,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2007,23.790480000000006,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2008,35.591669612400004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2008,6.922138530620046,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2008,566.8876597809522,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2008,2.852514259,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2008,50.49053161477434,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2008,3.6892039199999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2008,4.85916869771577,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2008,22.785187999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2008,50.095943949343926,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2008,8.1295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2008,1.6935650000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2008,60.910455535368,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2008,6.963236000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2008,7.4863248828143725,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2008,4.373999507,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2008,16.674003694600003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2008,34.3518812,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2008,11.305201221221212,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2008,47.942835421599995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2008,148.95426,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2008,0.9475622494953971,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2008,140.9782597513336,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2008,0.973054784,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2008,233.93134148248993,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2008,1491.7697972800001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2008,227.4625644264783,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2008,141.56969614368,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2008,0.6764902500000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2008,5.24843511775732,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2008,2.9867274328083546,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2008,1.78709075,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2008,1.2894450000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2008,4.793295829278845,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2008,22.27512,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2009,33.14502969009,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2009,6.082650759529953,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2009,513.7125331499009,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2009,2.6203315290000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2009,50.01333890472912,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2009,2.39316411,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2009,4.598499998664856,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2009,20.853307,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2009,46.41468087873208,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2009,8.17589990234375,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2009,1.5560450000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2009,56.427611154296,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2009,6.565283000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2009,7.416736536618188,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2009,3.81017358,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2009,17.401999156299997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2009,31.8166044,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2009,11.038669754670172,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2009,43.418476037999994,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2009,141.71822,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2009,1.0166624406798832,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2009,139.7411921114755,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2009,1.0751047008,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2009,242.7200245798786,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2009,1537.8634472879999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2009,246.0466555717167,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2009,150.95721605999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2009,0.7056497210000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2009,8.179011074662208,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2009,2.778517595567732,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2009,1.57681835,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2009,1.171335,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2009,4.71524200216,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2009,24.683680000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2010,35.426390221229994,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2010,7.320333596063821,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2010,523.677701147199,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2010,2.319191233,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2010,51.07307498231296,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2010,1.9204986,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2010,4.939799999523163,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2010,20.83772,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2010,45.8981084120814,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2010,7.315399902343751,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2010,1.5932729999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2010,55.38978126516,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2010,5.903503000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2010,7.24797882317131,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2010,3.295742292,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2010,17.5239963426,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2010,31.750196999999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2010,11.425174563493993,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2010,47.497912215599996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2010,150.95322199999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2010,0.9502558102142249,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2010,144.10352782454862,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2010,1.7204443984000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2010,250.62678119920142,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2010,1665.2836620573898,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2010,252.3533623007774,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2010,162.14325413496002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2010,0.5052725100000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2010,15.160198266059162,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2010,3.3171249890871164,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2010,1.5127931,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2010,0.96906,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2010,4.94997716116,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2010,25.1076,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2011,35.46434030763412,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2011,9.36950169580587,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2011,528.3021414195993,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2011,2.4193245209999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2011,58.94050975330208,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2011,1.9063482799999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2011,6.209300000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2011,21.014948,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2011,46.7310834778689,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2011,7.504899902343751,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2011,1.6454459999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2011,55.719405255811004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2011,6.662096999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2011,7.815332486284856,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2011,2.6481987724800002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2011,17.86899828328,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2011,36.258156,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2011,11.532006272389953,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2011,49.75122936,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2011,157.577,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2011,1.0555001306229423,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2011,143.19363051132,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2011,1.6520124192000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2011,245.12582692834184,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2011,1851.682477080307,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2011,250.8150950967564,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2011,208.16843233662001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2011,0.700608071,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2011,19.873024639600516,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2011,3.0615536090549176,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2011,1.4498910999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2011,0.96906,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2011,5.992157421,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2011,26.102160000000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2012,35.53002292920668,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2012,7.423459037928731,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2012,491.9038292142648,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2012,2.5725158690000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2012,61.15316922755672,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2012,1.39488473,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2012,5.610800000047683,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2012,20.284083000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2012,47.7725948963271,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2012,8.0447001953125,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2012,1.6064680000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2012,57.819709169949995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2012,6.346132,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2012,7.321496634752801,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2012,2.4602563427999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2012,17.0170003329,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2012,37.9748042,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2012,10.58283780570323,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2012,51.63273331999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2012,168.2856,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2012,1.1594856841910604,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2012,146.56523680134,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2012,1.02755328,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2012,265.85633636555536,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2012,1873.5428058513287,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2012,255.04819094271795,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2012,227.39490366599998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2012,0.727905162,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2012,17.86468311599493,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2012,3.0377802314024778,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2012,1.365872,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2012,0.9422999999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2012,4.752890679620001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2012,23.566480000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2013,36.139820387886346,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2013,7.162443297984143,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2013,475.8252742179468,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2013,3.333820367,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2013,58.729508526216165,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2013,0.8973955699999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2013,4.787600000286102,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2013,17.778014,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2013,45.120903863243406,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2013,6.7282998046874996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2013,1.61172,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2013,57.159517334989005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2013,4.656636000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2013,7.722283370491628,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2013,1.7624971185600002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2013,15.451294565464613,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2013,36.6050648,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2013,7.97329759881783,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2013,51.376270819999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2013,173.117,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2013,1.1099311245456087,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2013,145.26201497489131,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2013,2.00803616,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2013,285.78338924738205,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2013,1894.5946306000008,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2013,255.7280106591837,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2013,279.66333870846,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2013,0.6632001300000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2013,18.006982061237096,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2013,2.8828633186023516,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2013,1.34183445,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2013,0.81675,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2013,4.68158008358,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2013,22.99584,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2014,35.90959682812709,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2014,7.254462357886693,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2014,482.3106426734759,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2014,3.2644904280000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2014,60.84655272601818,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2014,0.5844672,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2014,5.119600000381469,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2014,16.994788,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2014,44.133835695085075,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2014,6.3842001953125,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2014,1.587955,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2014,54.032894329678,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2014,4.449105,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2014,5.723432075315069,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2014,1.6278947045999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2014,16.358999999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2014,25.8612944,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2014,7.289086460881303,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2014,48.89632272000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2014,176.59179999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2014,1.219080285172511,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2014,148.23296065714047,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2014,3.7286204800000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2014,305.86080361731166,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2014,1864.21002824,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2014,269.45174668245517,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2014,269.93806556682,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2014,0.7204407650000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2014,15.241059428977966,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2014,2.4674971613432928,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2014,1.51975725,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2014,0.7866,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2014,4.612594307909999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2014,23.00816,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2015,32.35788669150719,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2015,6.87127555651094,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2015,426.87123019853686,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2015,2.5669291400000005,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2015,58.76485214357925,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2015,0.58523881,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2015,5.865399803161621,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2015,16.917900000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2015,42.81250603791779,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2015,5.675264,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2015,1.5182840000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2015,52.973016918996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2015,4.711958,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2015,7.24132198462671,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2015,1.2458786791199998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2015,12.794291,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2015,16.392886100000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2015,5.384094014791929,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2015,46.183612399986934,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2015,186.36799999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2015,1.1117927802282677,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2015,142.89142262753543,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2015,2.7959772464000006,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2015,305.6489204503481,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2015,1825.56271527,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2015,281.0062814944989,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2015,271.9824283008,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2015,0.6451201670000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2015,14.280512764000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2015,2.0383666531264906,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2015,1.4939225,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2015,0.7938000000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2015,3.8587066704199993,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2015,23.331840000000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2016,32.726019871979155,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2016,6.070630147129074,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2016,348.3340101618654,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2016,2.367242612,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2016,62.17508178016247,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2016,0.33036518421875,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2016,5.11449980545044,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2016,16.109688,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2016,39.63647660715001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2016,3.9725629999999996,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2016,1.46248,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2016,52.07765136621123,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2016,4.235436,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2016,7.259993052817762,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2016,0.68583082373508,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2016,15.459798210999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2016,17.133676899999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2016,2.632917680655971,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2016,44.28951576,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2016,193.96999999999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2016,2.8020985301346903,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2016,142.39282276985637,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2016,1.7420684112000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2016,306.65688160619027,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2016,1691.421451244,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2016,283.9063686049108,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2016,268.8191008965,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2016,0.738573624,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2016,21.555286863000003,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2016,1.7178848567443705,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2016,1.8416807,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2016,0.7767000000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2016,4.305191039779998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2016,21.6916,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2017,31.847759625490173,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2017,7.362186275914782,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2017,371.34031741579867,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2017,1.8750372249999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2017,62.20053707717433,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2017,0.3285,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2017,5.6987179999999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2017,15.28239,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2017,39.41913047133764,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2017,4.567270000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2017,1.2831590000000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2017,49.78002272022792,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2017,4.468222,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2017,7.2606146,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2017,1.127817,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2017,15.08641989920077,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2017,14.4084466,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2017,1.9341200305177375,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2017,48.27703482,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2017,205.79999999999998,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2017,3.406985002057458,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2017,142.98299329423577,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2017,1.8879744,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2017,298.9792812401313,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2017,1746.6119999999999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2017,286.55597462004636,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2017,271.79510490384,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2017,0.7650734180000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2017,30.340079118000002,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2017,1.740643995501562,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2017,1.82797705,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2017,0.7024050000000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2017,4.10553307098,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2017,21.412720000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Canada,1540,595,2018,28.569113717868163,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mexico,1818,692,2018,7.709891656599597,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+usa,1996,776,2018,364.4511430618402,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Brazil,1527,589,2018,1.1741483102949999,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Colombia,1590,605,2018,57.907901872252594,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Venezuela,2016,780,2018,0.16475319574365685,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Bulgaria,1500,581,2018,5.221328671069313,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Czech Republic,1604,613,2018,14.642279908915295,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Germany,1608,614,2018,37.59049308432595,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Greece,1681,644,2018,4.416021605168785,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Hungary,1710,655,2018,1.2735030034902262,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Poland,1872,726,2018,47.54648304444107,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Romania,1893,735,2018,4.114027070246242,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Serbia,1923,749,2018,6.860070797866453,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Spain,1628,624,2018,1.0507877034069468,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Turkey,1975,769,2018,17.04663291809909,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Ukraine,1993,774,2018,14.520257438749539,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+United Kingdom,1654,635,2018,1.6414397326808694,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Kazakhstan,1733,667,2018,50.633656499999994,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Russian Federation,1896,736,2018,220.15431956181598,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Uzbekistan,1999,777,2018,3.025652234079134,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Africa,2052,788,2018,143.23919736064403,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Zimbabwe,2056,790,2018,1.9608739896032834,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Australia,1482,573,2018,301.0901438966377,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+China,1549,599,2018,1828.8269999999995,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+India,1713,657,2018,308.0438510435457,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Indonesia,1711,656,2018,323.268036,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Japan,1732,666,2018,0.5734284550000001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Mongolia,1832,699,2018,34.39037201400001,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+New Zealand,1861,718,2018,1.9239676850011933,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Pakistan,1864,720,2018,1.73362405,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+South Korea,1758,673,2018,0.567344,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Thailand,1953,762,2018,3.7557880565999997,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe
+Vietnam,2033,783,2018,23.293088000000004,million_tonnes_oil_equivalent,coal_production_mtoe,Coal Production - Mtoe

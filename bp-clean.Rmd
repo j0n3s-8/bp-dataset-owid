@@ -9,10 +9,12 @@ output: html_notebook
 library(dplyr)
 library(tidyr)
 library(stringr)
+library(readr)
 library(readxl)
 library(purrr)
 library(janitor)
 library(rlang)
+library(RMariaDB)
 ```
 
 # Download
@@ -32,7 +34,7 @@ if (!file.exists(bp_xlsx)) {
 # Functions
 
 ```{r}
-read_sheet_type1 <- function(x,y,z) {
+read_sheet_type1 <- function(x,y,z,t) {
   read_excel(
     "data-raw/bp-stats-review-2019-all-data.xlsx", 
     sheet = x,
@@ -44,11 +46,26 @@ read_sheet_type1 <- function(x,y,z) {
     mutate(
       year = as.integer(str_replace(year, "x", "")),
       value = as.numeric(value),
-      category = z
+      unit = z,
+      category = t,
+      sheet = x
     ) %>% 
     drop_na(value) %>% 
     rename(country = {{z}}) %>% 
-    filter(!str_sub(country, 1, 5) %in% c("Total","Rest ","Other"))
+    filter(!str_sub(country, 1, 5) %in% c("Total","Other"))
+}
+
+filter_and_export <- function(x) {
+  y <- make_clean_names(x)
+  
+  f <- sprintf("data-clean/%s.csv", y)
+  
+  if (!file.exists(f)) {
+    d <- d2 %>% 
+      filter(category == y)
+    
+    write_csv(d, f)
+  }
 }
 ```
 
@@ -337,5 +354,60 @@ type1_dimensions <- c(
 ```
 
 ```{r}
-d1 <- pmap(list(type1_sheets, type1_ranges, type1_dimensions), read_sheet_type1)
+d1 <- pmap(list(type1_sheets, type1_ranges, type1_dimensions, make_clean_names(type1_sheets)), read_sheet_type1)
+```
+
+# Country names
+
+```{r}
+countries_csv <- "data-raw/country_name_tool_countryname.csv"
+
+if (!file.exists(countries_csv)) {
+  # Connect to my-db as defined in ~/.my.cnf
+  con <- dbConnect(RMariaDB::MariaDB())
+  owid_countries <- tbl(con, "country_name_tool_countryname") %>% collect()
+  write_csv(owid_countries, countries_csv)
+} else {
+  owid_countries <- read_csv(countries_csv)
+}
+```
+
+```{r}
+d2 <- bind_rows(d1)
+
+d2 <- d2 %>% 
+  mutate(country = case_when(
+    country == "US" ~ "usa",
+    country == "Rest of World" ~ "Rest of the World",
+    country == "Rest of World2" ~ "Rest of the World",
+    country == "Rest of World3" ~ "Rest of the World",
+    country == "Brazil1" ~ "Brazil",
+    country == "India2" ~ "India",
+    country == "Republic of Congo" ~ "Congo (Republic of)",
+    TRUE ~ country
+  ))
+
+countries_exclude <- c("Central America", "Eastern Africa", "Middle Africa", "Western Africa",
+                      "Rest of Europe")
+
+d2 <- d2 %>% 
+  filter(!country %in% countries_exclude) %>% 
+  rename(country_name = country)
+
+country_to_code <- d2 %>% 
+  select(country_name) %>% 
+  distinct() %>% 
+  left_join(owid_countries, by = "country_name")
+
+d2 <- d2 %>% 
+  left_join(country_to_code) %>% 
+  select(starts_with("country"), id, owid_country, everything())
+```
+
+# Save
+
+```{r}
+try(dir.create("data-clean"))
+
+map(type1_sheets, filter_and_export)
 ```
